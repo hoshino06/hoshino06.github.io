@@ -3,7 +3,7 @@ relativeURLs = true
 canonifyurls = true
 
 title = 'Hikaru Hoshino'
-theme = "coder-portfolio" 
+theme = "coder-portfolio-rev" 
 languageCode = 'en-us'
 defaultcontentlanguage = "en"
 
