@@ -105,6 +105,11 @@ pygmentsUseClasses = true # new add
             weight = 4.0
             url = "/ja/education/class"
 
+            [[languages.ja.menu.main]]
+            name = "連絡先"
+            weight = 5.0
+            url = "/ja/contact"
+
 
 # Social links
 [[params.social]]
