@@ -1,0 +1,18 @@
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+/* publications */
+.publications p {
+    margin: 0.2em;
+}
+.publications li {
+    line-height: 1.5em;
+    counter-increment: pub-counter;
+}
+.publications li::marker {
+    content: "[" counter(pub-counter) "] ";
+}
+

@@ -1,0 +1,125 @@
+baseURL = 'https://www.eng.u-hyogo.ac.jp/faculty/hoshino/'
+relativeURLs = true
+canonifyurls = true
+
+title = 'Hikaru Hoshino'
+theme = "coder-portfolio" 
+languageCode = 'en-us'
+defaultcontentlanguage = "en"
+
+paginate = 20 # Default number of pages per page in pagination.
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+[markup.goldmark.renderer]
+    unsafe = true # To render raw HTML.
+
+[params] # theme parameters
+
+    avatarurl = "/images/profile_2021.jpeg" # Contain the path of the optionnal avatar in the static folder.
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = ["/css/custom_style.css?ver=20220905"]
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    # Bottom sns share
+    snsShare = true # new add
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true  # new add
+    enableFacebookShare = true # new add
+    enableHatenaShare = false   # new add
+    enableLineShare = false     # new add
+    enableLinkedInShare = false # new add
+
+    thumbnail = "/images/tn.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+
+[languages]
+    [languages.en]
+        languagename = "English page" # The language name to be displayed in the selector.
+        title = "Hikaru Hoshino"
+
+        [languages.en.params]
+        author = "Hikaru Hoshino"
+        info = "Assistant Professor, University of Hyogo"
+        description = "Hikaru Hoshino's website"
+        keywords = "university of hyogo, electrical engineering"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1.0
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Publications"
+        weight = 2.0
+        url = "/publications/"
+
+
+    [languages.ja]
+        languagename = "Japanese page"
+        title = "Hikaru Hoshino"
+
+        [languages.ja.params]
+            author = "星野 光"
+            description = "Hikaru Hoshino's website"
+            keywords = "星野光, 兵庫県立大学, University of Hyogo"
+            info = "助教 兵庫県立大学"
+
+        [languages.ja.menu]
+
+            [[languages.ja.menu.main]]
+            name = "経歴"
+            weight = 1.0
+            url = "/ja/about"
+
+            [[languages.ja.menu.main]]
+            name = "研究テーマ"
+            weight = 2.0
+            url = "/ja/research"
+
+            [[languages.ja.menu.main]]
+            name = "研究成果リスト"
+            weight = 3.0
+            url = "/ja/publications"
+
+            [[languages.ja.menu.main]]
+            name = "教育"
+            weight = 4.0
+            url = "/ja/education/class"
+
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/hoshino06/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/hoshino_uh/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/hikaru-hoshino/"
+

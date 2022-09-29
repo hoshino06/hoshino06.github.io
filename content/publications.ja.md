@@ -1,0 +1,121 @@
++++
+title = "研究成果リスト"
+date = "2022-09-28"
++++
+{{% publications %}}
+
+
+## 論文誌
+
+1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki, in preparation.
+
+1. H. Hoshino and E. Furutani, submitted.
+
+1. H. Hoshino and E. Furutani,
+On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
+Theoretical Biology and Medical Modelling, 18, 15 (2021).
+[[BMC](https://doi.org/10.1186/s12976-021-00147-w)]
+
+1. 星野光, 太陽光発電および蓄電池が需要家にもたらす経済メリットのスクリーニングカーブ法に基づく検討, 電気学会論文誌B, 141(3), 247-254 (2021).
+[[IEEJ](https://doi.org/10.1541/ieejpes.141.247)]
+
+1. H. Hoshino, Y. Susuki, T. J. Koo, and T. Hikihara,
+Structural analysis and control of a model of two-site electricity and heat supply,
+Journal of Dynamic Systems, Measurement, and Control, 141(10), 101004 (2019).
+[[ASME](https://doi.org/10.1115/1.4043703)]
+[[arXiv](https://arxiv.org/abs/1809.03939)]
+
+1. 星野光, 薄良彦, T. J. Koo, 引原隆士,
+2サイト地域エネルギーシステムにおけるコージェネレーションユニットの非線形制御―電気およびガスフローの同時調整，
+システム制御情報学会論文誌, 30(5), 157-166 (2017).
+[[J-STAGE](https://doi.org/10.5687/iscie.30.157)]
+
+1. H. Hoshino, Y. Susuki, and T. Hikihara,
+A lumped-parameter model of multiscale dynamics in steam supply systems,
+Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
+[[ASME](https://doi.org/10.1115/1.4034491)]
+[[arXiv](https://arxiv.org/abs/1906.08135)]
+
+1. 星野光, 薄良彦, 引原隆士, 2サイト地域電熱供給システムの安定性 ―熱融通指令値のステップ状変化に対する数値的検討，システム制御情報学会論文誌，27(11), 452-460 (2014).
+[[J-STAGE](https://doi.org/10.5687/iscie.27.452)]
+
+
+
+### 研究報告
+
+1. 星野光, 岡田健司, 花井悠二, アイルランドにおけるノンファームアクセス―電力系統利用の権利を考慮した混雑管理の事例分析, 電力中央研究所報告, Y18002 (2019).
+[[電中研](https://criepi.denken.or.jp/jp/kenkikaku/report/detail/Y18002.html)]
+
+1. 服部徹, 古澤健, 星野光, 欧州の金融的送電権の導入と運用に関する経済的課題, 電力中央研究所報告, Y18001 (2019).
+[[電中研](https://criepi.denken.or.jp/jp/kenkikaku/report/detail/Y18001.html)]
+
+1. 星野光, 古澤健, 岡田健司, 分散型エネルギー源の利活用を前提とした配電料金設計のためのモデル分析の動向と課題, 電力中央研究所社会経済研究所ディスカッションペーパー, SERC17002 (2018). [[社経研](https://criepi.denken.or.jp/jp/serc/discussion/2017.html)]
+
+
+### 国際会議録
+
+1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022), Online, December 12-15 (2022), accepted. 
+
+1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, CIGRE 2022 Kyoto Symposium, C000108, April 5-8 (2022). 
+
+1. H. Hoshino, E. Furutani, T. Sugawara, T. Takeda, Y. Sawanobori, G. Shirakami, Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
+
+1. Y. Susuki, T. Saito, H. Hoshino, T. Hikihara, Synthesis and real-time simulation of reactive controller for hot-water supply in a safety-critical hospital environment, Proceedings of the 2017 IEEE Conference on Control Technology and Applications (CCTA2017), pp.211- 216, Mauna Lani, HI, USA, August 27-30 (2017). [[IEEE](https://doi.org/10.1109/CCTA.2017.8062465)]
+
+1. H. Hoshino, Y. Susuki, and T. Hikihara, Basins of attraction of steady operating conditions in a two-site electricity and heat supply system, Proceedings of the 2016 International Symposium on Nonlinear Theory and its Applications (NOLTA2016), pp.675-678, Yugawara, Japan, November 27-30 (2016). [[IEICE](http://www.ieice.org/nolta/symposium/archive/2016/articles/1185.pdf)]
+
+1. H. Hoshino and Y. Susuki, Graph-based modeling and analysis of dynamic flows in steam supply networks, Proceedings of the 54th IEEE Conference on Decision and Control (CDC2015), pp.1358-1363, Osaka, Japan, December 15-18 (2015).[[IEEE](https://doi.org/10.1109/CDC.2015.7402400)]
+
+1. Y. Susuki, I. Mezic, H. Hoshino, and T. Hikihara, A unified definition of collective instabilities in coupled generator networks, Proceedings of the 4th IFAC Conference on Analysis and Control of Chaotic Systems (CHAOS2015), pp.89-94, Tokyo, Japan, August 26-28 (2015). [[ScienceDirect](https://doi.org/10.1016/j.ifacol.2015.11.016)]
+
+1. H. Hoshino, Y. Susuki, and T. Hikihara, A nonlinear dynamical model of two-sites electricity and heat supply system, Proceedings of the 2014 International Symposium on Nonlinear Theory and its Applications (NOLTA2014), pp.482-485, Luzern, Switzerland, September 14-18 (2014). [[IEICE](http://www.ieice.org/nolta/symposium/archive/2014/articles/C2L-A2-6065.pdf)]
+
+1. Y. Susuki, H. Hoshino, T. Hikihara, and I. Mezic, Nonlinear instability of a network of fixed-speed induction generators, Proceedings of the 13th European Control Conference (ECC2014), pp.1313-1318, Strasbourg, France, June 24-27 (2014). [[IEEE](https://doi.org/10.1109/ECC.2014.6862396)]
+
+
+### 国内学会発表 (2019年度以降)
+
+共同研究者登壇分を含む．**太字**が発表者. 
+
+1. **星野 光**, 徳永 豊, 古谷 栄光,
+スミス補償器を用いた麻酔鎮静度制御系のFRITによる調整に関する一検討,
+第65回自動制御連合講演会, 宇都宮大学陽東キャンパス, 2022年11月12日-13日(予定)
+
+1. **丸賀 楽人**, 星野 光, 古谷 栄光, 
+電気回路との対応に基づくプロセスネットワークのモデリング: 移流項を含む場合の一考察,
+第66回システム制御情報学会研究発表講演会, 212-6, 京都リサーチパーク, 2022年5月19日. 
+
+1. **中村 建海**, 星野 光, 古谷 栄光,
+薬物動態コンパートメントモデルの実験的再現に関する検討, 
+第66回システム制御情報学会研究発表講演会, 124-4, 京都リサーチパーク, 2022年5月18日. 
+
+1. **星野 光**, 入江 陽介, 古谷 栄光,
+分散型エネルギー資源の最適導入量分析のためのスクリーニングカーブ法の動的計画法による定式化の一検討,
+スマートシステムと制御技術シンポジウム2022, CT-22-003, 兵庫県立大学姫路工学キャンパス, 2022年1月8日. 
+
+1. **星野 光**, 古谷 栄光, 菅原 友道, 武田 敏宏, 澤登 慶治, 白神 豪太郎,
+非脱分極性筋弛緩薬のシナプス前後のアセチルコリン受容体への作用を考慮した統合的薬力学モデルとそのパラメータ推定,
+第28回日本静脈麻酔学会, 一般演題12, 福井大学医学部付属病院, 2021年11月27日.
+
+1. **H. Hoshino**, T. J. Koo, Y. C. Chu, Y. Susuki, Dynamic Modeling of Energy Flows in Integrated
+Electricity and Steam Supply Networks, 第64回自動制御連合講演会, 1C1-6, オンライン開催, 2021年11月13日. 
+
+1. **丸賀 楽人**, 星野 光, 古谷 栄光,
+電気回路との対応に基づくプロセスネットワークの解析法に関する一考察,
+第65回システム制御情報学会研究発表講演会, TS03-01-4, オンライン開催, 2021年5月26日.
+
+1. **入江 陽介**, 星野 光, 古谷 栄光,
+スクリーニングカーブ法に基づく需要家側の経済分析: 太陽光発電および蓄電池の最大導入量に関する検討,
+令和３年電気学会全国大会, 6-125, オンライン開催, 2021年3月9日. 
+
+1. **H. Hoshino**, T. J. Koo, Y. C. Chu, Y. Susuki, A model predictive control formulation for tracking control of energy flows in two-site electricity and steam supply system, 第63回自動制御連合講演会, 1H2-7, オンライン開催, 2020年11月21日. 
+
+1. **星野 光**, 太陽光発電および蓄電池システムの経済性評価へのスクリーニングカーブ法の適用, 令和2年電力エネルギー部門大会, 13, オンライン開催, 2020年9月10日. 
+
+1. **H. Hoshino**, T. J. Koo, Y. C. Chu, Y. Susuki, A hierarchical controller design for two-site electricity and steam supply system participating in power system frequency regulation, 第64回システム制御情報学会研究発表講演会, GS08-3, オンライン開催, 2020年5月20日. 
+
+1. 星野 光, **阪上 公紀**, 古谷 栄光, 送配電事業におけるデススパイラルの発生条件に関する一検討, 令和2年電気学会全国大会, 6-120, 東京電機大学東京千住キャンパス, 2020年3月13日 (COVIT-19により中止/発表成立扱い). 
+
+1. **星野 光**, 古谷 栄光, 澤登 慶治, 白神 豪太郎, 非脱分極性筋弛緩薬による神経筋刺激伝達応答変化の数理モデル化, 第26回日本静脈麻酔学会, 一般演題1-3, 昭和大学上條講堂, 2019年11月23日.
+
+{{%/publications%}}
