@@ -1,6 +1,6 @@
 +++
 title = "研究成果リスト"
-date = "2022-09-28"
+date = "2023-03-10"
 +++
 {{% publications %}}
 
@@ -40,7 +40,6 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 [[J-STAGE](https://doi.org/10.5687/iscie.27.452)]
 
 
-
 ### 研究報告
 
 1. 星野光, 岡田健司, 花井悠二, アイルランドにおけるノンファームアクセス―電力系統利用の権利を考慮した混雑管理の事例分析, 電力中央研究所報告, Y18002 (2019).
@@ -54,9 +53,11 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 
 ### 国際会議録
 
-1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022), Online, December 12-15 (2022), accepted. 
+1. H. Hoshino, E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), Yokohama, July 9-14, Japan (2023) (accepted).
 
-1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, CIGRE 2022 Kyoto Symposium, C000108, April 5-8 (2022). 
+1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
+
+1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, Proceedings of the CIGRE 2022 Kyoto Symposium, C000108, Kyoto, April 5-8 (2022). 
 
 1. H. Hoshino, E. Furutani, T. Sugawara, T. Takeda, Y. Sawanobori, G. Shirakami, Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
 
@@ -77,9 +78,17 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 
 共同研究者登壇分を含む．**太字**が発表者. 
 
+1. **重松 克哉**, 松本 拓也, 星野 光, 古谷 栄光
+変分方程式に基づくIterative LQRによる倒立振子の振り上げ制御:安定多様体法との比較に基づく振り上げ挙動の一解析, 
+第10回計測自動制御学会制御部門マルチシンポジウム, 立命館大学 びわこ・くさつキャンパス, 1PS2-17, 2023年3月9日. 
+
+1. **星野 光**, 
+Hamilton-Jacobi方程式のGalerkin近似に基づく制御対象と制御性能の同時最適化に関する一検討,
+第10回計測自動制御学会制御部門マルチシンポジウム, 立命館大学 びわこ・くさつキャンパス, 1M8-2, 2023年3月9日. 
+
 1. **星野 光**, 徳永 豊, 古谷 栄光,
 スミス補償器を用いた麻酔鎮静度制御系のFRITによる調整に関する一検討,
-第65回自動制御連合講演会, 宇都宮大学陽東キャンパス, 2022年11月12日-13日(予定)
+第65回自動制御連合講演会, 宇都宮大学陽東キャンパス, 1B2-4, 2022年11月12日.
 
 1. **丸賀 楽人**, 星野 光, 古谷 栄光, 
 電気回路との対応に基づくプロセスネットワークのモデリング: 移流項を含む場合の一考察,
@@ -97,8 +106,9 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 非脱分極性筋弛緩薬のシナプス前後のアセチルコリン受容体への作用を考慮した統合的薬力学モデルとそのパラメータ推定,
 第28回日本静脈麻酔学会, 一般演題12, 福井大学医学部付属病院, 2021年11月27日.
 
-1. **H. Hoshino**, T. J. Koo, Y. C. Chu, Y. Susuki, Dynamic Modeling of Energy Flows in Integrated
-Electricity and Steam Supply Networks, 第64回自動制御連合講演会, 1C1-6, オンライン開催, 2021年11月13日. 
+1. **H. Hoshino**, T. J. Koo, Y. C. Chu, Y. Susuki, 
+Dynamic Modeling of Energy Flows in Integrated Electricity and Steam Supply Networks, 
+第64回自動制御連合講演会, 1C1-6, オンライン開催, 2021年11月13日. 
 
 1. **丸賀 楽人**, 星野 光, 古谷 栄光,
 電気回路との対応に基づくプロセスネットワークの解析法に関する一考察,
