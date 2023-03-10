@@ -46,7 +46,9 @@ Transactions of the Institute of Systems, Control and Information Engineers,
 
 ### Conference Proceedings
 
-1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022), Online, December 12-15 (2022), accepted. 
+1. H. Hoshino, E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), Yokohama, July 9-14, Japan (2023) (accepted).
+
+1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022), pp.462-465, Online, December 12-15 (2022). [IEICE]
 
 1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, CIGRE 2022 Kyoto Symposium, C000108, April 5-8 (2022). 
 
