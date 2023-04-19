@@ -1,4 +1,4 @@
-baseURL = 'https://www.eng.u-hyogo.ac.jp/faculty/hoshino/'
+baseURL = 'https://hoshino06.github.io'
 relativeURLs = true
 canonifyurls = true
 
@@ -91,19 +91,9 @@ pygmentsUseClasses = true # new add
             url = "/ja/about"
 
             [[languages.ja.menu.main]]
-            name = "研究テーマ"
-            weight = 2.0
-            url = "/ja/research"
-
-            [[languages.ja.menu.main]]
             name = "研究成果リスト"
             weight = 3.0
             url = "/ja/publications"
-
-            [[languages.ja.menu.main]]
-            name = "教育"
-            weight = 4.0
-            url = "/ja/education/class"
 
             [[languages.ja.menu.main]]
             name = "連絡先"
