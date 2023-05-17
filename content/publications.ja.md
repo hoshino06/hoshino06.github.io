@@ -7,9 +7,19 @@ date = "2023-03-10"
 
 ## 論文誌
 
-1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki, in preparation.
+1. H. Hoshino, Y. Irie, E. Furutani, in preparation. 
 
-1. H. Hoshino and E. Furutani, submitted.
+1. K. Shigematsu, H. Hoshino, E. Furutani, in preparation. 
+
+1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
+Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
+submitted.
+[[arXiv](http://arxiv.org/abs/2305.07198)]
+
+1. H. Hoshino and E. Furutani, 
+Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
+submitted.
+[[arXiv](http://arxiv.org/abs/2305.07195)]
 
 1. H. Hoshino and E. Furutani,
 On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
