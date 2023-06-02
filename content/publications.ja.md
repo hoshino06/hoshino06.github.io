@@ -63,9 +63,13 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 
 ### 国際会議録
 
+1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), Catania, Italy, September 26–29 (2023) (accepted). 
+
+1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), Catania, Italy, September 26–29 (2023) (accepted). 
+
 1. H. Hoshino, E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), Yokohama, July 9-14, Japan (2023) (accepted).
 
-1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
+1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
 
 1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, Proceedings of the CIGRE 2022 Kyoto Symposium, C000108, Kyoto, April 5-8 (2022). 
 
