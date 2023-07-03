@@ -3,15 +3,21 @@ title = "Publication List"
 +++
 {{% publications %}}
 
+#### 2023
+
 1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), Catania, Italy, September 26–29 (2023) (accepted). 
 
 1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), Catania, Italy, September 26–29 (2023) (accepted). 
 
 1. H. Hoshino, E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), Yokohama, July 9-14, Japan (2023) (accepted).
 
+#### 2022
+
 1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings of the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022), pp.462-465, Online, December 12-15 (2022). [IEICE]
 
 1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, CIGRE 2022 Kyoto Symposium, C000108, April 5-8 (2022). 
+
+#### 2021
 
 1. H. Hoshino and E. Furutani,
 On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
@@ -23,7 +29,11 @@ Economic Benefits of Solar Photovoltaics and Battery Systems at Customer Side st
 IEEJ Transactions on Power and Energy, 141(3), 247-254 (2021) (in Japanese). 
 [[IEEJ](https://www.jstage.jst.go.jp/article/ieejpes/141/3/141_247/_article/-char/en)]
 
+#### 2020
+
 1. H. Hoshino, E. Furutani, T. Sugawara, T. Takeda, Y. Sawanobori, G. Shirakami, Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
+
+#### ~2019
 
 1. H. Hoshino, Y. Susuki, T. J. Koo, and T. Hikihara,
 Structural analysis and control of a model of two-site electricity and heat supply,
