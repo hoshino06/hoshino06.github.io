@@ -1,19 +1,20 @@
 +++
 title = "研究成果リスト"
-date = "2023-03-10"
+date = "2023-10-06"
 +++
 {{% publications %}}
 
 
 ## 論文誌
 
-1. H. Hoshino, Y. Irie, E. Furutani, in preparation. 
-
-1. K. Shigematsu, H. Hoshino, E. Furutani, in preparation. 
+1. H. Hoshino, Y. Irie, E. Furutani,
+Screening Curve Method for Economic Analysis of Photovoltaic Self-Consumption,
+submitted. 
+[[arXiv](https://arxiv.org/abs/2308.00244)]
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
-submitted.
+in preparation.
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
 1. H. Hoshino and E. Furutani, 
@@ -63,11 +64,11 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 
 ### 国際会議録
 
-1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), Catania, Italy, September 26–29 (2023) (accepted). 
+1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
 
-1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), Catania, Italy, September 26–29 (2023) (accepted). 
+1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.403-406, Catania, Italy, September 26–29 (2023). 
 
-1. H. Hoshino, E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), Yokohama, July 9-14, Japan (2023) (accepted).
+1. H. Hoshino, E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023).
 
 1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
 
