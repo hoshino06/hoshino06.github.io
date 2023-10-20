@@ -7,19 +7,18 @@ date = "2023-10-06"
 
 ## 論文誌
 
-1. H. Hoshino, Y. Irie, E. Furutani,
-Screening Curve Method for Economic Analysis of Photovoltaic Self-Consumption,
-submitted. 
-[[arXiv](https://arxiv.org/abs/2308.00244)]
-
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
 in preparation.
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
+1. H. Hoshino, Y. Irie, E. Furutani,
+Screening Curve Method for Economic Analysis of Photovoltaic Self-Consumption, in revision. 
+[[arXiv](https://arxiv.org/abs/2308.00244)]
+
 1. H. Hoshino and E. Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
-submitted.
+in revision.
 [[arXiv](http://arxiv.org/abs/2305.07195)]
 
 1. H. Hoshino and E. Furutani,
