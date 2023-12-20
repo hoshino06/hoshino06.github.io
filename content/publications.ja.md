@@ -7,6 +7,8 @@ date = "2023-10-06"
 
 ## 論文誌
 
+1. K. Shigematsu, H. Hoshino, E. Furutani, in preparation. 
+
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
 in preparation.
@@ -91,6 +93,10 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 ### 国内学会発表 (2019年度以降)
 
 共同研究者登壇分を含む．**太字**が発表者. 
+
+1. **星野 光**,
+電力エネルギーシステムの統合最適化への 制御理論的アプローチ,
+令和5年電気関係学会関西連合大会, 関西学院大学 西宮上ヶ原キャンパス, G3-1, 2023年11月26日.   
 
 1. **入江 陽介**, 星野 光, 古谷 栄光, 
 スクリーニングカーブ法に基づく太陽光発電および蓄電池の最適容量の分析: 計算時間の検証, 
