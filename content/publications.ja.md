@@ -7,21 +7,24 @@ date = "2023-10-06"
 
 ## 論文誌
 
-1. K. Shigematsu, H. Hoshino, E. Furutani, in preparation. 
+1. K. Shigematsu, H. Hoshino, E. Furutani,
+Iterative Linear Quadratic Regulator With Variational Equation-Based Discretizationin,
+preparation. 
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
 in preparation.
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
-1. H. Hoshino, Y. Irie, E. Furutani,
-Screening Curve Method for Economic Analysis of Photovoltaic Self-Consumption, in revision. 
-[[arXiv](https://arxiv.org/abs/2308.00244)]
-
 1. H. Hoshino and E. Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
-in revision.
+Advanced Biomedical Engineering, accepted.
 [[arXiv](http://arxiv.org/abs/2305.07195)]
+
+1. H. Hoshino, Y. Irie, E. Furutani,
+Screening Curve Method for Economic Analysis of Household Solar Energy Self-Consumption,
+IEEE Transactions on Energy Markets, Policy and Regulation, accepted.  
+[[arXiv](https://arxiv.org/abs/2308.00244)]
 
 1. H. Hoshino and E. Furutani,
 On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
@@ -48,7 +51,9 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 [[ASME](https://doi.org/10.1115/1.4034491)]
 [[arXiv](https://arxiv.org/abs/1906.08135)]
 
-1. 星野光, 薄良彦, 引原隆士, 2サイト地域電熱供給システムの安定性 ―熱融通指令値のステップ状変化に対する数値的検討，システム制御情報学会論文誌，27(11), 452-460 (2014).
+1. 星野光, 薄良彦, 引原隆士,
+2サイト地域電熱供給システムの安定性 ―熱融通指令値のステップ状変化に対する数値的検討，
+システム制御情報学会論文誌，27(11), 452-460 (2014).
 [[J-STAGE](https://doi.org/10.5687/iscie.27.452)]
 
 
@@ -95,7 +100,7 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 共同研究者登壇分を含む．**太字**が発表者. 
 
 1. **星野 光**,
-電力エネルギーシステムの統合最適化への 制御理論的アプローチ,
+電力エネルギーシステムの統合最適化への制御理論的アプローチ,
 令和5年電気関係学会関西連合大会, 関西学院大学 西宮上ヶ原キャンパス, G3-1, 2023年11月26日.   
 
 1. **入江 陽介**, 星野 光, 古谷 栄光, 
