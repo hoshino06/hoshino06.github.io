@@ -13,7 +13,7 @@ preparation.
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
-in preparation.
+submitted.
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
 1. H. Hoshino and E. Furutani, 
@@ -69,6 +69,8 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 
 
 ### 国際会議録
+
+1. H. Hoshino, Y. Nakahira, A physics-informed reinforcement learning framework for risk probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted).   
 
 1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
 
