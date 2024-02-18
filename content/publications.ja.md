@@ -8,8 +8,8 @@ date = "2023-10-06"
 ## 論文誌
 
 1. K. Shigematsu, H. Hoshino, E. Furutani,
-Iterative Linear Quadratic Regulator With Variational Equation-Based Discretizationin,
-preparation. 
+Iterative Linear Quadratic Regulator With Variational Equation-Based Discretization, 
+submitted. 
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
