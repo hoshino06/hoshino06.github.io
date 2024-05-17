@@ -8,53 +8,54 @@ date = "2023-10-06"
 ## 論文誌
 
 1. K. Shigematsu, H. Hoshino, E. Furutani,
-Iterative linear quadratic regulator with variational equation-based discretization, 
-submitted. 
+Iterative linear quadratic regulator with variational equation-based discretization, in revision. 
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
-submitted.
+in revision.
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
 1. H. Hoshino and E. Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
-Advanced Biomedical Engineering, accepted.
-[[arXiv](http://arxiv.org/abs/2305.07195)]
+Advanced Biomedical Engineering, Vol. 13, pp. 163--175 (2024).
+[[ABE](https://doi.org/10.14326/abe.13.163)]
 
 1. H. Hoshino, Y. Irie, E. Furutani,
-Screening Curve Method for Economic Analysis of Household Solar Energy Self-Consumption,
+Screening curve method for economic analysis of household solar energy self-consumption,
 IEEE Transactions on Energy Markets, Policy and Regulation, accepted.  
+[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
 [[arXiv](https://arxiv.org/abs/2308.00244)]
 
 1. H. Hoshino and E. Furutani,
 On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
-Theoretical Biology and Medical Modelling, 18, 15 (2021).
+Theoretical Biology and Medical Modelling, Vol. 18, 15 (2021).
 [[BMC](https://doi.org/10.1186/s12976-021-00147-w)]
 
-1. 星野光, 太陽光発電および蓄電池が需要家にもたらす経済メリットのスクリーニングカーブ法に基づく検討, 電気学会論文誌B, 141(3), 247-254 (2021).
+1. 星野光, 太陽光発電および蓄電池が需要家にもたらす経済メリットのスクリーニングカーブ法に基づく検討,
+   電気学会論文誌B, Vol. 141, No. 3, pp. 247-254 (2021).
 [[IEEJ](https://doi.org/10.1541/ieejpes.141.247)]
 
 1. H. Hoshino, Y. Susuki, T. J. Koo, and T. Hikihara,
 Structural analysis and control of a model of two-site electricity and heat supply,
-Journal of Dynamic Systems, Measurement, and Control, 141(10), 101004 (2019).
+Journal of Dynamic Systems, Measurement, and Control, Vol. 141, No. 10, 101004 (2019).
 [[ASME](https://doi.org/10.1115/1.4043703)]
 [[arXiv](https://arxiv.org/abs/1809.03939)]
 
 1. 星野光, 薄良彦, T. J. Koo, 引原隆士,
 2サイト地域エネルギーシステムにおけるコージェネレーションユニットの非線形制御―電気およびガスフローの同時調整，
-システム制御情報学会論文誌, 30(5), 157-166 (2017).
+システム制御情報学会論文誌, Vol. 30, No. 5, pp. 157-166 (2017).
 [[J-STAGE](https://doi.org/10.5687/iscie.30.157)]
 
 1. H. Hoshino, Y. Susuki, and T. Hikihara,
 A lumped-parameter model of multiscale dynamics in steam supply systems,
-Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
+Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 [[ASME](https://doi.org/10.1115/1.4034491)]
 [[arXiv](https://arxiv.org/abs/1906.08135)]
 
 1. 星野光, 薄良彦, 引原隆士,
 2サイト地域電熱供給システムの安定性 ―熱融通指令値のステップ状変化に対する数値的検討，
-システム制御情報学会論文誌，27(11), 452-460 (2014).
+システム制御情報学会論文誌，Vol. 27, No. 11, pp. 452-460 (2014).
 [[J-STAGE](https://doi.org/10.5687/iscie.27.452)]
 
 
@@ -71,7 +72,7 @@ Journal of Computational and Nonlinear Dynamics 11(6), 061018 (2016).
 
 ### 国際会議録
 
-1. H. Hoshino, Y. Nakahira, A physics-informed reinforcement learning framework for risk probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted).   
+1. H. Hoshino, Y. Nakahira, Physics-informed RL for Maximal Safety Probability Estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
 
 1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
 
