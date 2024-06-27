@@ -18,7 +18,7 @@ in revision.
 
 1. H. Hoshino and E. Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
-Advanced Biomedical Engineering, Vol. 13, pp. 163--175 (2024).
+Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
 [[ABE](https://doi.org/10.14326/abe.13.163)]
 
 1. H. Hoshino, Y. Irie, E. Furutani,
@@ -103,15 +103,15 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 共同研究者登壇分を含む．**太字**が発表者. 
 
-1. **重松 克哉** , 星野 光 , 古谷 栄光, 
+1. **重松 克哉**, 星野 光, 古谷 栄光, 
 変分方程式を用いたIterative LQRによる倒立振子の振り上げ制御: 予測区間が振り上げ挙動に与える影響の解析,
 第68回システム制御情報学会研究発表講演会, 大阪工業大学梅田キャンパス, 34J-3, 2024年5月26日. 
 
-1. **宮口 大輝** , 星野 光 , 古谷 栄光, 菅原 友道 , 武田 敏宏, 白神 豪太郎,
+1. **宮口 大輝**, 星野 光, 古谷 栄光, 菅原 友道 , 武田 敏宏, 白神 豪太郎,
 全身麻酔における筋弛緩度の統合的なモデル化: 臨床データの個人差を考慮したパラメータ推定の一検討, 
 第68回システム制御情報学会研究発表講演会, 大阪工業大学梅田キャンパス, 23E-4, 2024年5月25日. 
 
-1. **萬谷 太陽** , 星野 光 , 古谷 栄光,
+1. **萬谷 太陽**, 星野 光, 古谷 栄光,
 深層決定的方策勾配法による制御対象と制御器の同時最適化に関する一検討,
 第68回システム制御情報学会研究発表講演会, 大阪工業大学梅田キャンパス, 22I-3, 2024年5月25日. 
 
