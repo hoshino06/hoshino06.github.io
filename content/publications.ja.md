@@ -23,8 +23,8 @@ Advanced Biomedical Engineering, Vol. 13, pp. 163--175 (2024).
 
 1. H. Hoshino, Y. Irie, E. Furutani,
 Screening curve method for economic analysis of household solar energy self-consumption,
-IEEE Transactions on Energy Markets, Policy and Regulation, accepted.  
-[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
+IEEE Transactions on Energy Markets, Policy and Regulation, in press. 
+[[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
 [[arXiv](https://arxiv.org/abs/2308.00244)]
 
 1. H. Hoshino and E. Furutani,
