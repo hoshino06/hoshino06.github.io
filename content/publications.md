@@ -3,8 +3,25 @@ title = "Publication List"
 +++
 {{% publications %}}
 
+#### 2024
+
+1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24 - 27 (2024) (accepted).
+
+1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
+
+1. H. Hoshino and E. Furutani, 
+Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
+Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
+[[ABE](https://doi.org/10.14326/abe.13.163)]
+
+1. H. Hoshino, Y. Irie, and E. Furutani,
+Screening curve method for economic analysis of household solar energy self-consumption,
+IEEE Transactions on Energy Markets, Policy and Regulation, in press. 
+[[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
+[[arXiv](https://arxiv.org/abs/2308.00244)]
+
 #### 2023
-1. K. Shigematsu, H. Hoshino, E. Furutani,
+1. K. Shigematsu, H. Hoshino, and E. Furutani,
 Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum,
 Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
 [[IEICE](https://doi.org/10.34385/proc.76.C2L-23)]
@@ -20,7 +37,6 @@ Proceedings of the 22nd World Congress of the International Federation of Automa
 [[ScienceDirect](https://doi.org/10.1016/j.ifacol.2023.10.888)]
 
 #### 2022
-
 1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings of the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022), pp.462-465, Online, December 12-15 (2022). 
 
 1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, CIGRE 2022 Kyoto Symposium, C000108, April 5-8 (2022). 
