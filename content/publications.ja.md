@@ -21,7 +21,7 @@ Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromu
 Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
 [[ABE](https://doi.org/10.14326/abe.13.163)]
 
-1. H. Hoshino, Y. Irie, E. Furutani,
+1. H. Hoshino, Y. Irie, and E. Furutani,
 Screening curve method for economic analysis of household solar energy self-consumption,
 IEEE Transactions on Energy Markets, Policy and Regulation, in press. 
 [[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
@@ -76,19 +76,19 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
 
-1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
+1. K. Shigematsu, H. Hoshino, and E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
 
 1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.403-406, Catania, Italy, September 26–29 (2023). 
 
-1. H. Hoshino, E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023).
+1. H. Hoshino and E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023).
 
 1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
 
-1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, Proceedings of the CIGRE 2022 Kyoto Symposium, C000108, Kyoto, April 5-8 (2022). 
+1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, and E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, Proceedings of the CIGRE 2022 Kyoto Symposium, C000108, Kyoto, April 5-8 (2022). 
 
-1. H. Hoshino, E. Furutani, T. Sugawara, T. Takeda, Y. Sawanobori, G. Shirakami, Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
+1. H. Hoshino, E. Furutani, T. Sugawara, T. Takeda, Y. Sawanobori, and G. Shirakami, Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
 
-1. Y. Susuki, T. Saito, H. Hoshino, T. Hikihara, Synthesis and real-time simulation of reactive controller for hot-water supply in a safety-critical hospital environment, Proceedings of the 2017 IEEE Conference on Control Technology and Applications (CCTA2017), pp.211- 216, Mauna Lani, HI, USA, August 27-30 (2017). [[IEEE](https://doi.org/10.1109/CCTA.2017.8062465)]
+1. Y. Susuki, T. Saito, H. Hoshino, and T. Hikihara, Synthesis and real-time simulation of reactive controller for hot-water supply in a safety-critical hospital environment, Proceedings of the 2017 IEEE Conference on Control Technology and Applications (CCTA2017), pp.211- 216, Mauna Lani, HI, USA, August 27-30 (2017). [[IEEE](https://doi.org/10.1109/CCTA.2017.8062465)]
 
 1. H. Hoshino, Y. Susuki, and T. Hikihara, Basins of attraction of steady operating conditions in a two-site electricity and heat supply system, Proceedings of the 2016 International Symposium on Nonlinear Theory and its Applications (NOLTA2016), pp.675-678, Yugawara, Japan, November 27-30 (2016). [[IEICE](http://www.ieice.org/nolta/symposium/archive/2016/articles/1185.pdf)]
 
