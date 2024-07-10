@@ -7,7 +7,7 @@ date = "2023-10-06"
 
 ## 論文誌
 
-1. K. Shigematsu, H. Hoshino, E. Furutani,
+1. K. Shigematsu, H. Hoshino, and E. Furutani,
 Iterative linear quadratic regulator with variational equation-based discretization, in revision. 
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
@@ -72,7 +72,9 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 ### 国際会議録
 
-1. H. Hoshino, Y. Nakahira, Physics-informed RL for Maximal Safety Probability Estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
+1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24 - 27 (2024) (accepted).
+
+1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
 
 1. K. Shigematsu, H. Hoshino, E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
 
