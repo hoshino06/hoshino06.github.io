@@ -8,7 +8,7 @@ date = "2023-10-06"
 ## 論文誌
 
 1. K. Shigematsu, H. Hoshino, and E. Furutani,
-Iterative linear quadratic regulator with variational equation-based discretization, accepted. 
+Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE, (in press). 
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
