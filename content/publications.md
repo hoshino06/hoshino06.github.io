@@ -11,6 +11,8 @@ title = "Publication List"
 
 1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024) (accepted).
 
+1. K. Shigematsu, H. Hoshino, and E. Furutani, Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE, (in press). 
+
 1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
 
 1. H. Hoshino and E. Furutani, 
