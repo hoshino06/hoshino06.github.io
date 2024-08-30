@@ -7,6 +7,9 @@ date = "2023-10-06"
 
 ## 論文誌
 
+1. Z. Wang, H. Hoshino, Y. Nakahira,
+Probabilistic safety certificate for uncertain systems with online parameter estimation, in preparation. 
+
 1. K. Shigematsu, H. Hoshino, and E. Furutani,
 Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE, (in press). 
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
