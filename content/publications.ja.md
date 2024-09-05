@@ -11,12 +11,12 @@ date = "2023-10-06"
 Probabilistic safety certificate for uncertain systems with online parameter estimation, in preparation. 
 
 1. K. Shigematsu, H. Hoshino, and E. Furutani,
-Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE, (in press). 
+Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE (accepted). 
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
-in revision.
+SICE Journal of Control, Measurement, and System Integration (accepted).
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
 1. H. Hoshino and E. Furutani, 
@@ -26,13 +26,13 @@ Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
 
 1. H. Hoshino, Y. Irie, and E. Furutani,
 Screening curve method for economic analysis of household solar energy self-consumption,
-IEEE Transactions on Energy Markets, Policy and Regulation, in press. 
+IEEE Transactions on Energy Markets, Policy and Regulation, Early Access. 
 [[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
 [[arXiv](https://arxiv.org/abs/2308.00244)]
 
 1. H. Hoshino and E. Furutani,
 On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
-Theoretical Biology and Medical Modelling, Vol. 18, 15 (2021).
+Theoretical Biology and Medical Modelling, Vol. 18, Art.no. 15 (2021).
 [[BMC](https://doi.org/10.1186/s12976-021-00147-w)]
 
 1. 星野光, 太陽光発電および蓄電池が需要家にもたらす経済メリットのスクリーニングカーブ法に基づく検討,
