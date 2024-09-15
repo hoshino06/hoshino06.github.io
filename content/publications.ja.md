@@ -81,13 +81,14 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024) (accepted).
 
-1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
+1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
+[[IEEE](https://doi.org/10.23919/ACC60939.2024.10644621)]
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
+1. K. Shigematsu, H. Hoshino, and E. Furutani, Iterative linear quadratic regulator using variational equation: A case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). [[IEICE](https://doi.org/10.34385/proc.76.C2L-23)]
 
-1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.403-406, Catania, Italy, September 26–29 (2023). 
+1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.403-406, Catania, Italy, September 26–29 (2023). [[IEICE](https://doi.org/10.34385/proc.76.C1L-22)]
 
-1. H. Hoshino and E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023).
+1. H. Hoshino and E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023). [[ScienceDirect](https://doi.org/10.1016/j.ifacol.2023.10.888)]
 
 1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
 
