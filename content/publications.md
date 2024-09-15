@@ -13,7 +13,10 @@ title = "Publication List"
 
 1. K. Shigematsu, H. Hoshino, and E. Furutani, Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE, (in press). 
 
-1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), Toronto, Canada, July 10-12 (2024) (accepted). 
+1. H. Hoshino and Y. Nakahira,
+Physics-informed RL for maximal safety probability estimation,
+Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
+[[IEEE](https://doi.org/10.23919/ACC60939.2024.10644621)]
 
 1. H. Hoshino and E. Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
