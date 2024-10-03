@@ -1,6 +1,6 @@
 +++
 title = "研究成果リスト"
-date = "2023-10-06"
+date = "2024-10-03"
 +++
 {{% publications %}}
 
@@ -11,12 +11,15 @@ date = "2023-10-06"
 Probabilistic safety certificate for uncertain systems with online parameter estimation, in preparation. 
 
 1. K. Shigematsu, H. Hoshino, and E. Furutani,
-Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE (accepted). 
+Iterative linear quadratic regulator with variational equation-based discretization,
+Nonlinear Theory and Its Applications, IEICE, Vol. 15, No. 4, pp. 920-937 (2024).
+[[J-Stage](https://doi.org/10.1587/nolta.15.920)]
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
 1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
-SICE Journal of Control, Measurement, and System Integration (accepted).
+SICE Journal of Control, Measurement, and System Integration, Vol. 17, No. 1, pp. 365-377 (2024).
+[[Taylar&Francis](https://doi.org/10.1080/18824889.2024.2402103)]
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
 1. H. Hoshino and E. Furutani, 
@@ -26,7 +29,7 @@ Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
 
 1. H. Hoshino, Y. Irie, and E. Furutani,
 Screening curve method for economic analysis of household solar energy self-consumption,
-IEEE Transactions on Energy Markets, Policy and Regulation, Early Access. 
+IEEE Transactions on Energy Markets, Policy and Regulation, Vol. 2, No. 3, pp. 368-378 (2024). 
 [[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
 [[arXiv](https://arxiv.org/abs/2308.00244)]
 
