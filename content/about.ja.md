@@ -1,6 +1,6 @@
 +++
 title = "経歴"
-date = "2023-04-18"
+date = "2024-11-26"
 +++
 
 
@@ -25,8 +25,7 @@ date = "2023-04-18"
 
 * 2017年4月1日～2019年3月31日 (一財)電力中央研究所 社会経済研究所 研究員(2018年8月～ 主任研究員) 
 * 2019年4月1日～ 兵庫県立大学 大学院工学研究科 電気物性工学専攻 助教
-* 2023年4月1日～2023年9月31日, 2024年1月3日～ カーネギーメロン大学 客員研究員 
-
+* 2023年4月1日～2023年9月31日, 2024年1月3日～3月31日 カーネギーメロン大学CyLab 客員研究員 
 
 ### 受賞歴
 
@@ -38,6 +37,7 @@ date = "2023-04-18"
 * 2016年11月 Finalist of NOLTA 2016 Best Student Paper Award
 * 2022年6月 Asian Journal of Control Outstanding Reviewers of 2021
 * 2023年2月 電気学会 2022年電子・情報・システム部門技術委員会奨励賞
+* 2024年11月 2024 IEEE Industrial Electronics and Applications Conference (IEACon) Best Paper Award
 
 ### 研究助成
 
