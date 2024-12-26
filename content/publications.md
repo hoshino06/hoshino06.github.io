@@ -5,18 +5,17 @@ title = "Publication List"
 
 #### 2024
 
-1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning, 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024) (accepted).
+1. K. Shigematsu, H. Hoshino, and E. Furutani,
+Iterative linear quadratic regulator with variational equation-based discretization,
+Nonlinear Theory and Its Applications, IEICE, Vol. 15, No. 4, pp. 920-937 (2024).
+[[J-Stage](https://doi.org/10.1587/nolta.15.920)]
+[[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, 2024 IEEE Industrial Electronics and Applications Conference (IEACon), Lumpur, Malaysia, November 4-5 (2024) (accepted).
-
-1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024) (accepted).
-
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Iterative linear quadratic regulator with variational equation-based discretization, Nonlinear Theory and Its Applications, IEICE, (in press). 
-
-1. H. Hoshino and Y. Nakahira,
-Physics-informed RL for maximal safety probability estimation,
-Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
-[[IEEE](https://doi.org/10.23919/ACC60939.2024.10644621)]
+1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
+Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
+SICE Journal of Control, Measurement, and System Integration, Vol. 17, No. 1, pp. 365-377 (2024).
+[[Taylar&Francis](https://doi.org/10.1080/18824889.2024.2402103)]
+[[arXiv](http://arxiv.org/abs/2305.07198)]
 
 1. H. Hoshino and E. Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
@@ -25,9 +24,24 @@ Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
 
 1. H. Hoshino, Y. Irie, and E. Furutani,
 Screening curve method for economic analysis of household solar energy self-consumption,
-IEEE Transactions on Energy Markets, Policy and Regulation, in press. 
+IEEE Transactions on Energy Markets, Policy and Regulation, Vol. 2, No. 3, pp. 368-378 (2024). 
 [[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
 [[arXiv](https://arxiv.org/abs/2308.00244)]
+
+1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning,
+Proceedings of the 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).
+[[IEEE](https://doi.org/10.1109/SCISISIS61014.2024.10760044)]
+
+1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle,
+Proceedings of the 2024 IEEE Industrial Electronics and Applications Conference (IEACon), pp.95-100, Kuala Lumpur, Malaysia, November 4-5 (2024). **Best Paper Award**
+[[IEEE](https://doi.org/10.1109/IEACon61321.2024.10797278)]
+
+1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024).
+
+1. H. Hoshino and Y. Nakahira,
+Physics-informed RL for maximal safety probability estimation,
+Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
+[[IEEE](https://doi.org/10.23919/ACC60939.2024.10644621)]
 
 #### 2023
 1. K. Shigematsu, H. Hoshino, and E. Furutani,
