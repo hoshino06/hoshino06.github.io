@@ -35,8 +35,9 @@ On the relationship between inhibition and receptor occupancy by nondepolarizing
 Theoretical Biology and Medical Modelling, Vol. 18, Art.no. 15 (2021).
 [[BMC](https://doi.org/10.1186/s12976-021-00147-w)]
 
-1. 星野光, 太陽光発電および蓄電池が需要家にもたらす経済メリットのスクリーニングカーブ法に基づく検討,
-   電気学会論文誌B, Vol. 141, No. 3, pp. 247-254 (2021).
+1. 星野光,
+太陽光発電および蓄電池が需要家にもたらす経済メリットのスクリーニングカーブ法に基づく検討,
+電気学会論文誌B, Vol. 141, No. 3, pp. 247-254 (2021).
 [[IEEJ](https://doi.org/10.1541/ieejpes.141.247)]
 
 1. H. Hoshino, Y. Susuki, T. J. Koo, and T. Hikihara,
@@ -77,7 +78,7 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning, 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024) (accepted).  
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, 2024 IEEE Industrial Electronics and Applications Conference (IEACon), Lumpur, Malaysia, November 4-5 (2024) (accepted). 
+1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, 2024 IEEE Industrial Electronics and Applications Conference (IEACon), Lumpur, Malaysia, November 4-5 (2024) (accepted). ** Best Paper Award**
 
 1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024) (accepted).
 
@@ -112,6 +113,18 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 ### 国内学会発表 (2019年度以降)
 
 共同研究者登壇分を含む．**太字**が発表者. 
+
+1. **岩井 克樹**, 星野 光, 古谷 栄光,
+変分方程式を用いた不均一ホライゾンIterative LQR：化学プロセスの濃度制御への適用例,
+2024年度計測自動制御学会関西支部・システム制御情報学会シンポジウム, 大阪大学中之島センター, C2-3, 2025年1月15日. 
+
+1. **萬谷 太陽**, 星野 光, 古谷 栄光,
+強化学習に基づく再生可能エネルギー入札戦略と蓄電池容量の統合最適化に関する一検討,
+第67回自動制御連合講演会, 姫路商工会議所, 21H-7, 2024年11月24日.
+
+1. **星野 光**,
+電力システムの長期計画と市場の関係について,
+第67回自動制御連合講演会, 姫路商工会議所, 21C-6, 2024年11月24日.
 
 1. **重松 克哉**, 星野 光, 古谷 栄光, 
 変分方程式を用いたIterative LQRによる倒立振子の振り上げ制御: 予測区間が振り上げ挙動に与える影響の解析,
