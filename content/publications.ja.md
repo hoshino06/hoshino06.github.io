@@ -80,7 +80,7 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani, Sizing of battery considering renewable energy bidding strategy with reinforcement learning, 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025) (accepted). 
     
-1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning, 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).  
+1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning, 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).
 [[IEEE](https://doi.org/10.1109/SCISISIS61014.2024.10760044)]
 
 1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, 2024 IEEE Industrial Electronics and Applications Conference (IEACon), pp. 95-100, Lumpur, Malaysia, November 4-5 (2024). **Best Paper Award**
