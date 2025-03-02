@@ -63,7 +63,9 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 [[J-STAGE](https://doi.org/10.5687/iscie.27.452)]
 
 
-### 研究報告
+### 研究報告・解説記事
+
+1. 星野光, 電力システムの長期計画と市場, システム/制御/情報, Vol. 68, No. 12, pp. 492-497 (2024).
 
 1. 星野光, 岡田健司, 花井悠二, アイルランドにおけるノンファームアクセス―電力系統利用の権利を考慮した混雑管理の事例分析, 電力中央研究所報告, Y18002 (2019).
 [[電中研](https://criepi.denken.or.jp/jp/kenkikaku/report/detail/Y18002.html)]
@@ -76,11 +78,15 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 ### 国際会議録
 
-1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning, 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024) (accepted).  
+1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani, Sizing of battery considering renewable energy bidding strategy with reinforcement learning, 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025) (accepted). 
+    
+1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning, 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).  
+[[IEEE](https://doi.org/10.1109/SCISISIS61014.2024.10760044)]
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, 2024 IEEE Industrial Electronics and Applications Conference (IEACon), Lumpur, Malaysia, November 4-5 (2024) (accepted). **Best Paper Award**
+1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, 2024 IEEE Industrial Electronics and Applications Conference (IEACon), pp. 95-100, Lumpur, Malaysia, November 4-5 (2024). **Best Paper Award**
+[[IEEE](https://doi.org/10.1109/IEACon61321.2024.10797278)]
 
-1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024) (accepted).
+1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024).
 
 1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
 [[IEEE](https://doi.org/10.23919/ACC60939.2024.10644621)]
