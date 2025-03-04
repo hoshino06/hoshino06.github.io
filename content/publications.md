@@ -3,6 +3,12 @@ title = "Publication List"
 +++
 {{% publications %}}
 
+#### 2025
+1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani,
+Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
+2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025) (accepted). 
+
+
 #### 2024
 
 1. K. Shigematsu, H. Hoshino, and E. Furutani,
