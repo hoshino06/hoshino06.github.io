@@ -4,10 +4,13 @@ title = "Publication List"
 {{% publications %}}
 
 #### 2025
+1. H. Hoshino,
+Gradient-based Co-Design of Nonlinear Optimal Regulators with Stability Guarantee, 
+IEEE Control Systems Letters (accepted). 
+
 1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani,
 Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
-2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025) (accepted). 
-
+2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
 
 #### 2024
 

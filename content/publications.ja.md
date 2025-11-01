@@ -7,6 +7,10 @@ date = "2024-10-03"
 
 ## 論文誌
 
+1. H. Hoshino,
+Gradient-based Co-Design of Nonlinear Optimal Regulators with Stability Guarantee, 
+IEEE Control Systems Letters (accepted). 
+
 1. K. Shigematsu, H. Hoshino, and E. Furutani,
 Iterative linear quadratic regulator with variational equation-based discretization,
 Nonlinear Theory and Its Applications, IEICE, Vol. 15, No. 4, pp. 920-937 (2024).
