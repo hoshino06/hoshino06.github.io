@@ -4,13 +4,24 @@ title = "Publication List"
 {{% publications %}}
 
 #### 2025
+
+1. T. Mantani, H. Hoshino, E. Furutani,
+Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
+IEEE Transactions on Energy Markets, Policy and Regulation (accepted). 
+
+1. H. Hoshino, H. Miyaguchi, E. Furutani, T. Sugawara, T. Takeda, G. Shirakami,
+Mechanism-based modeling of neuromuscular monitoring measures during general anesthesia, 
+IEEE Access (accepted).
+
 1. H. Hoshino,
-Gradient-based Co-Design of Nonlinear Optimal Regulators with Stability Guarantee, 
-IEEE Control Systems Letters (accepted). 
+Gradient-based co-design of nonlinear optimal regulators with stability guarantee, 
+IEEE Control Systems Letters, Vol. 9, pp. 2561-2566 (2025).
+[[IEEE](https://doi.org/10.1109/LCSYS.2025.3634657)]
 
 1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani,
 Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
+[[IEEE](https://doi.org/10.1109/PESGM52009.2025.11225126)}
 
 #### 2024
 
