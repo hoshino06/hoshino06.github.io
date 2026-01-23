@@ -3,15 +3,24 @@ title = "Publication List"
 +++
 {{% publications %}}
 
+#### 2026
+
+1. Z. Wang, X. Deng, H. Hoshino, Y. Nakahira,
+Online adaptive probabilistic safety certificate with language guidance,
+in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), Los Angeles, CA, USA, June 17-19 (2026) (accepted). 
+[[arXiv](https://doi.org/10.48550/arXiv.2511.12431)]
+
 #### 2025
 
 1. T. Mantani, H. Hoshino, E. Furutani,
 Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
-IEEE Transactions on Energy Markets, Policy and Regulation (accepted). 
+IEEE Transactions on Energy Markets, Policy and Regulation (in press).
+[[IEEE](https://doi.org/10.1109/TEMPR.2025.3645733)]
 
 1. H. Hoshino, H. Miyaguchi, E. Furutani, T. Sugawara, T. Takeda, G. Shirakami,
 Mechanism-based modeling of neuromuscular monitoring measures during general anesthesia, 
-IEEE Access (accepted).
+IEEE Access, Vol. 13, pp. 214655--214667 (2025).
+[[IEEE](https://doi.org/10.1109/ACCESS.2025.3646559)]
 
 1. H. Hoshino,
 Gradient-based co-design of nonlinear optimal regulators with stability guarantee, 
@@ -20,8 +29,8 @@ IEEE Control Systems Letters, Vol. 9, pp. 2561-2566 (2025).
 
 1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani,
 Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
-2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
-[[IEEE](https://doi.org/10.1109/PESGM52009.2025.11225126)}
+in Proc. 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
+[[IEEE](https://doi.org/10.1109/PESGM52009.2025.11225126)]
 
 #### 2024
 
@@ -57,6 +66,7 @@ Proceedings of the 2024 IEEE Industrial Electronics and Applications Conference 
 [[IEEE](https://doi.org/10.1109/IEACon61321.2024.10797278)]
 
 1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024).
+[[IEEE](https://doi.org/10.1109/ITSC58415.2024.10919509)]
 
 1. H. Hoshino and Y. Nakahira,
 Physics-informed RL for maximal safety probability estimation,
