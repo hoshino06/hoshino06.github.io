@@ -5,110 +5,116 @@ title = "Publication List"
 
 #### 2026
 
-1. Z. Wang, X. Deng, H. Hoshino, Y. Nakahira,
+1. Zhuoyuan Wang, Xiyu Deng, Hikaru Hoshino, and Yorie Nakahira,
 Online adaptive probabilistic safety certificate with language guidance,
 in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), Los Angeles, CA, USA, June 17-19 (2026) (accepted). 
 [[arXiv](https://doi.org/10.48550/arXiv.2511.12431)]
 
 #### 2025
 
-1. T. Mantani, H. Hoshino, E. Furutani,
+1. Taiyo Mantani, Hikaru Hoshino, Eiko Furutani,
 Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
 IEEE Transactions on Energy Markets, Policy and Regulation (in press).
 [[IEEE](https://doi.org/10.1109/TEMPR.2025.3645733)]
 
-1. H. Hoshino, H. Miyaguchi, E. Furutani, T. Sugawara, T. Takeda, G. Shirakami,
+1. Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Tohishihiro Takeda, and Gotaro Shirakami,
 Mechanism-based modeling of neuromuscular monitoring measures during general anesthesia, 
 IEEE Access, Vol. 13, pp. 214655--214667 (2025).
 [[IEEE](https://doi.org/10.1109/ACCESS.2025.3646559)]
 
-1. H. Hoshino,
+1. Hikaru Hoshino,
 Gradient-based co-design of nonlinear optimal regulators with stability guarantee, 
 IEEE Control Systems Letters, Vol. 9, pp. 2561-2566 (2025).
 [[IEEE](https://doi.org/10.1109/LCSYS.2025.3634657)]
 
-1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani,
+1. Taiyo Mantani, Hikaru Hoshino, Tomonari Kanazawa, and Eiko Furutani,
 Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
 in Proc. 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
 [[IEEE](https://doi.org/10.1109/PESGM52009.2025.11225126)]
 
 #### 2024
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani,
+1. Katsuya Shigematsu, Hikaru Hoshino, and Eiko Furutani,
 Iterative linear quadratic regulator with variational equation-based discretization,
 Nonlinear Theory and Its Applications, IEICE, Vol. 15, No. 4, pp. 920-937 (2024).
 [[J-Stage](https://doi.org/10.1587/nolta.15.920)]
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
-1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
+1. Hikaru Hoshino, T. John Koo, Yun-Chung Chu, and Yoshihiko Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
 SICE Journal of Control, Measurement, and System Integration, Vol. 17, No. 1, pp. 365-377 (2024).
 [[Taylar&Francis](https://doi.org/10.1080/18824889.2024.2402103)]
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
-1. H. Hoshino and E. Furutani, 
+1. Hikaru Hoshino and Eiko Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
 Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
 [[ABE](https://doi.org/10.14326/abe.13.163)]
 
-1. H. Hoshino, Y. Irie, and E. Furutani,
+1. Hikaru Hoshino, Yosuke Irie, and Eiko Furutani,
 Screening curve method for economic analysis of household solar energy self-consumption,
 IEEE Transactions on Energy Markets, Policy and Regulation, Vol. 2, No. 3, pp. 368-378 (2024). 
 [[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
 [[arXiv](https://arxiv.org/abs/2308.00244)]
 
-1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning,
+1. Kenjiro Nishimura, Hikaru Hoshino, and Eiko Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning,
 Proceedings of the 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).
 [[IEEE](https://doi.org/10.1109/SCISISIS61014.2024.10760044)]
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle,
-Proceedings of the 2024 IEEE Industrial Electronics and Applications Conference (IEACon), pp.95-100, Kuala Lumpur, Malaysia, November 4-5 (2024). **Best Paper Award**
+1. Katsuya Shigematsu, Hikaru Hoshino, and Eiko Furutani,
+Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, Proceedings of the 2024 IEEE Industrial Electronics and Applications Conference (IEACon), pp.95-100, Kuala Lumpur, Malaysia, November 4-5 (2024). **Best Paper Award**
 [[IEEE](https://doi.org/10.1109/IEACon61321.2024.10797278)]
 
-1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024).
+1. Hikaru Hoshino, Jiaxing Li, Arnav Menon, John M. Dolan, and Yorie Nakahira,
+Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024).
 [[IEEE](https://doi.org/10.1109/ITSC58415.2024.10919509)]
 
-1. H. Hoshino and Y. Nakahira,
+1. Hikaru Hoshino and Yorie Nakahira,
 Physics-informed RL for maximal safety probability estimation,
 Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
 [[IEEE](https://doi.org/10.23919/ACC60939.2024.10644621)]
 
 #### 2023
-1. K. Shigematsu, H. Hoshino, and E. Furutani,
+1. Katsuya Shigematsu, Hikaru Hoshino, and Eiko Furutani,
 Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum,
 Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
 [[IEICE](https://doi.org/10.34385/proc.76.C2L-23)]
 
-1. H. Hoshino,
+1. Hikaru Hoshino,
 An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation,
 Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.403-406, Catania, Italy, September 26–29 (2023).
 [[IEICE](https://doi.org/10.34385/proc.76.C1L-22)]
 
-1. H. Hoshino, E. Furutani,
+1. Hikaru Hoshino, Eiko Furutani,
 Tuning of hypnosis controller based on FRIT for Wiener systems with dead time,
 Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023). 
 [[ScienceDirect](https://doi.org/10.1016/j.ifacol.2023.10.888)]
 
 #### 2022
-1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings of the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022), pp.462-465, Online, December 12-15 (2022). 
 
-1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, CIGRE 2022 Kyoto Symposium, C000108, April 5-8 (2022). 
+
+1. Hikaru Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
+
+1. Yosuke Irie, Hikaru Hoshino, Ken Furusawa, Kenji Okada, and Eiko Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, Proceedings of the CIGRE 2022 Kyoto Symposium, C000108, Kyoto, April 5-8 (2022).
+[[CIGRE](https://www.e-cigre.org/publications/detail/symp-kyo-2022-symposium-kyoto-2022.html)]
+
 
 #### 2021
 
-1. H. Hoshino and E. Furutani,
+1. Hikaru Hoshino and Eiko Furutani,
 On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
 Theoretical Biology and Medical Modelling, 18, 15 (2021).
 [[BMC](https://doi.org/10.1186/s12976-021-00147-w)]
 
-1. H. Hoshino,
+1. Hikaru Hoshino,
 Economic Benefits of Solar Photovoltaics and Battery Systems at Customer Side studied via Screening Curve Method,
 IEEJ Transactions on Power and Energy, 141(3), 247-254 (2021) (in Japanese). 
 [[IEEJ](https://www.jstage.jst.go.jp/article/ieejpes/141/3/141_247/_article/-char/en)]
 
 #### 2020
 
-1. H. Hoshino, E. Furutani, T. Sugawara, T. Takeda, Y. Sawanobori, G. Shirakami, Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
+1. Hikaru Hoshino, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, Yoshiharu Sawanobori, and Gotaro Shirakami,
+Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
 
 #### ~2019
 

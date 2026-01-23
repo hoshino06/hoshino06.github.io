@@ -1,51 +1,51 @@
 +++
 title = "研究成果リスト"
-date = "2024-10-03"
+date = "2026-01-23"
 +++
 {{% publications %}}
 
 
-## 論文誌
+### 学術論文誌
 
-1. T. Mantani, H. Hoshino, E. Furutani,
+1. Taiyo Mantani, Hikaru Hoshino, Eiko Furutani,
 Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
 IEEE Transactions on Energy Markets, Policy and Regulation (accepted). 
+[[IEEE](https://doi.org/10.1109/TEMPR.2025.3645733)]
 
-
-1. H. Hoshino, H. Miyaguchi, E. Furutani, T. Sugawara, T. Takeda, G. Shirakami,
+1. Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, and Gotaro Shirakami,
 Mechanism-based modeling of neuromuscular monitoring measures during general anesthesia, 
 IEEE Access, Vol. 13, pp. 214655--214667 (2025).
 [[IEEE](https://doi.org/10.1109/ACCESS.2025.3646559)]
 
-1. H. Hoshino,
+1. Hikaru Hoshino,
 Gradient-based co-design of nonlinear optimal regulators with stability guarantee, 
 IEEE Control Systems Letters, Vol. 9, pp. 2561-2566 (2025).
 [[IEEE](https://doi.org/10.1109/LCSYS.2025.3634657)]
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani,
+1. Katsuya Shigematsu, Hikaru Hoshino, and Eiko Furutani,
 Iterative linear quadratic regulator with variational equation-based discretization,
 Nonlinear Theory and Its Applications, IEICE, Vol. 15, No. 4, pp. 920-937 (2024).
 [[J-Stage](https://doi.org/10.1587/nolta.15.920)]
 [[arXiv](https://doi.org/10.48550/arXiv.2402.11648)]
 
-1. H. Hoshino, T.J. Koo, Y.-C. Chu, and Y. Susuki,
+1. Hikaru Hoshino, T. John Koo, Yun-Chung Chu, and Yoshihiko Susuki,
 Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage,
 SICE Journal of Control, Measurement, and System Integration, Vol. 17, No. 1, pp. 365-377 (2024).
 [[Taylar&Francis](https://doi.org/10.1080/18824889.2024.2402103)]
 [[arXiv](http://arxiv.org/abs/2305.07198)]
 
-1. H. Hoshino and E. Furutani, 
+1. Hikaru Hoshino and Eiko Furutani, 
 Simultaneous modeling of in vivo and in vitro effects of nondepolarizing neuromuscular blocking drugs,
 Advanced Biomedical Engineering, Vol. 13, pp. 163-175 (2024).
 [[ABE](https://doi.org/10.14326/abe.13.163)]
 
-1. H. Hoshino, Y. Irie, and E. Furutani,
+1. Hikaru Hoshino, Yosuke Irie, and Eiko Furutani,
 Screening curve method for economic analysis of household solar energy self-consumption,
 IEEE Transactions on Energy Markets, Policy and Regulation, Vol. 2, No. 3, pp. 368-378 (2024). 
 [[IEEE](https://doi.org/10.1109/TEMPR.2024.3350051)]
 [[arXiv](https://arxiv.org/abs/2308.00244)]
 
-1. H. Hoshino and E. Furutani,
+1. Hikaru Hoshino and Eiko Furutani,
 On the relationship between inhibition and receptor occupancy by nondepolarizing neuromuscular blocking drugs,
 Theoretical Biology and Medical Modelling, Vol. 18, Art.no. 15 (2021).
 [[BMC](https://doi.org/10.1186/s12976-021-00147-w)]
@@ -55,18 +55,18 @@ Theoretical Biology and Medical Modelling, Vol. 18, Art.no. 15 (2021).
 電気学会論文誌B, Vol. 141, No. 3, pp. 247-254 (2021).
 [[IEEJ](https://doi.org/10.1541/ieejpes.141.247)]
 
-1. H. Hoshino, Y. Susuki, T. J. Koo, and T. Hikihara,
+1. Hikaru Hoshino, Yoshihiko Susuki, T. John Koo, and Takashi Hikihara,
 Structural analysis and control of a model of two-site electricity and heat supply,
 Journal of Dynamic Systems, Measurement, and Control, Vol. 141, No. 10, 101004 (2019).
 [[ASME](https://doi.org/10.1115/1.4043703)]
 [[arXiv](https://arxiv.org/abs/1809.03939)]
 
-1. 星野光, 薄良彦, T. J. Koo, 引原隆士,
+1. 星野光, 薄良彦, T. John Koo, 引原隆士,
 2サイト地域エネルギーシステムにおけるコージェネレーションユニットの非線形制御―電気およびガスフローの同時調整，
 システム制御情報学会論文誌, Vol. 30, No. 5, pp. 157-166 (2017).
-[[J-STAGE](https://doi.org/10.5687/iscie.30.157)]
+[[J-Stage](https://doi.org/10.5687/iscie.30.157)]
 
-1. H. Hoshino, Y. Susuki, and T. Hikihara,
+1. Hikaru Hoshino, Yoshihiko Susuki, and Takashi Hikihara,
 A lumped-parameter model of multiscale dynamics in steam supply systems,
 Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 [[ASME](https://doi.org/10.1115/1.4034491)]
@@ -81,6 +81,7 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 ### 研究報告・解説記事
 
 1. 星野光, 電力システムの長期計画と市場, システム/制御/情報, Vol. 68, No. 12, pp. 492-497 (2024).
+[[J-Stage](https://doi.org/10.11509/isciesci.68.12_492)]
 
 1. 星野光, 岡田健司, 花井悠二, アイルランドにおけるノンファームアクセス―電力系統利用の権利を考慮した混雑管理の事例分析, 電力中央研究所報告, Y18002 (2019).
 [[電中研](https://criepi.denken.or.jp/jp/kenkikaku/report/detail/Y18002.html)]
@@ -93,56 +94,95 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 ### 国際会議録
 
-1. Z. Wang, X. Deng, H. Hoshino, Y. Nakahira,
+1. Zhuoyuan Wang, Xiyu Deng, Hikaru Hoshino, and Yorie Nakahira,
 Online adaptive probabilistic safety certificate with language guidance,
 in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), Los Angeles, CA, USA, June 17-19 (2026) (accepted). 
 [[arXiv](https://doi.org/10.48550/arXiv.2511.12431)]
 
-1. T. Mantani, H. Hoshino, T. Kanazawa, and E. Furutani,
+1. Taiyo Mantani, Hikaru Hoshino, Tomonari Kanazawa, and Eiko Furutani,
 Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
 in Proc. 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
 [[IEEE](https://doi.org/10.1109/PESGM52009.2025.11225126)]
-    
-1. K. Nishimura, H. Hoshino, and E. Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning, 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).
+
+1. Kenjiro Nishimura, Hikaru Hoshino, and Eiko Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning,
+Proceedings of the 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).
 [[IEEE](https://doi.org/10.1109/SCISISIS61014.2024.10760044)]
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, 2024 IEEE Industrial Electronics and Applications Conference (IEACon), pp. 95-100, Lumpur, Malaysia, November 4-5 (2024). **Best Paper Award**
+
+1. Katsuya Shigematsu, Hikaru Hoshino, and Eiko Furutani,
+Model predictive online trajectory planning for adaptive battery discharging in fuel cell vehicle, Proceedings of the 2024 IEEE Industrial Electronics and Applications Conference (IEACon), pp.95-100, Kuala Lumpur, Malaysia, November 4-5 (2024). **Best Paper Award**
 [[IEEE](https://doi.org/10.1109/IEACon61321.2024.10797278)]
 
-1. H. Hoshino, J. Li, A. Menon, J. Dolan, and Y. Nakahira, Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024).
+1. Hikaru Hoshino, Jiaxing Li, Arnav Menon, John M. Dolan, and Yorie Nakahira,
+Autonomous drifting based on maximal safety probability learning, Proceedings of the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC2024), Edmonton, Canada, September 24-27 (2024).
 [[IEEE](https://doi.org/10.1109/ITSC58415.2024.10919509)]
 
-1. H. Hoshino and Y. Nakahira, Physics-informed RL for maximal safety probability estimation, Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
+1. Hikaru Hoshino and Yorie Nakahira,
+Physics-informed RL for maximal safety probability estimation,
+Proceedings of the 2024 American Control Conference (ACC2024), pp. 3576-3583, Toronto, Canada, July 10-12 (2024). 
 [[IEEE](https://doi.org/10.23919/ACC60939.2024.10644621)]
 
-1. K. Shigematsu, H. Hoshino, and E. Furutani, Iterative linear quadratic regulator using variational equation: A case study with swing-up control of inverted pendulum, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). [[IEICE](https://doi.org/10.34385/proc.76.C2L-23)]
+1. Katsuya Shigematsu, Hikaru Hoshino, and Eiko Furutani,
+Iterative linear quadratic regulator using variational equation: a case study with swing-up control of inverted pendulum,
+Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.471-474, Catania, Italy, September 26–29 (2023). 
+[[IEICE](https://doi.org/10.34385/proc.76.C2L-23)]
 
-1. H. Hoshino, An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation, Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.403-406, Catania, Italy, September 26–29 (2023). [[IEICE](https://doi.org/10.34385/proc.76.C1L-22)]
+1. Hikaru Hoshino,
+An approach to integrated design of physical structure and controller based on Galerkin approximations of Hamilton-Jacobi equation,
+Proceedings of the 2023 International Symposium on Nonlinear Theory and its Applications (NOLTA2023), pp.403-406, Catania, Italy, September 26–29 (2023).
+[[IEICE](https://doi.org/10.34385/proc.76.C1L-22)]
 
-1. H. Hoshino and E. Furutani, Tuning of hypnosis controller based on FRIT for Wiener systems with dead time, Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023). [[ScienceDirect](https://doi.org/10.1016/j.ifacol.2023.10.888)]
+1. Hikaru Hoshino, Eiko Furutani,
+Tuning of hypnosis controller based on FRIT for Wiener systems with dead time,
+Proceedings of the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), pp.10884-10889, Yokohama, July 9-14, Japan (2023). 
+[[ScienceDirect](https://doi.org/10.1016/j.ifacol.2023.10.888)]
 
-1. H. Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
+1. Hikaru Hoshino, Screening curve method for optimal sizing of photovoltaic and battery storage systems for a household, Proceedings the 2022 International Symposium on Nonlinear Theory and its Applications (NOLTA2022),  pp.462-465, Online, December 12-15 (2022). [[IEICE](10.34385/proc.71.C2L-D-04)] 
 
-1. Y. Irie, H. Hoshino, K. Furusawa, K. Okada, and E. Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, Proceedings of the CIGRE 2022 Kyoto Symposium, C000108, Kyoto, April 5-8 (2022). 
+1. Yosuke Irie, Hikaru Hoshino, Ken Furusawa, Kenji Okada, and Eiko Furutani, Profitability analysis of photovoltaics and battery storages using screening curve method: A study on the interaction between PV/battery share and prices of electricity spot market, Proceedings of the CIGRE 2022 Kyoto Symposium, C000108, Kyoto, April 5-8 (2022).
+[[CIGRE](https://www.e-cigre.org/publications/detail/symp-kyo-2022-symposium-kyoto-2022.html)]
 
-1. H. Hoshino, E. Furutani, T. Sugawara, T. Takeda, Y. Sawanobori, and G. Shirakami, Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
+1. Hikaru Hoshino, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, Yoshiharu Sawanobori, and Gotaro Shirakami,
+Physiological modeling of concentration-effect relationship for nondepolarizing neuromuscular blocking drugs, the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. 5202-5207, via the EMBS Virtual Academy, July 20-24 (2020). [[IEEE](https://ieeexplore.ieee.org/abstract/document/9175229)] 
 
-1. Y. Susuki, T. Saito, H. Hoshino, and T. Hikihara, Synthesis and real-time simulation of reactive controller for hot-water supply in a safety-critical hospital environment, Proceedings of the 2017 IEEE Conference on Control Technology and Applications (CCTA2017), pp.211- 216, Mauna Lani, HI, USA, August 27-30 (2017). [[IEEE](https://doi.org/10.1109/CCTA.2017.8062465)]
+1. Yoshihiko Susuki, Tsukasa Saito, Hikaru Hoshino, and Takashi Hikihara, Synthesis and real-time simulation of reactive controller for hot-water supply in a safety-critical hospital environment, Proceedings of the 2017 IEEE Conference on Control Technology and Applications (CCTA2017), pp.211- 216, Mauna Lani, HI, USA, August 27-30 (2017). [[IEEE](https://doi.org/10.1109/CCTA.2017.8062465)]
 
-1. H. Hoshino, Y. Susuki, and T. Hikihara, Basins of attraction of steady operating conditions in a two-site electricity and heat supply system, Proceedings of the 2016 International Symposium on Nonlinear Theory and its Applications (NOLTA2016), pp.675-678, Yugawara, Japan, November 27-30 (2016). [[IEICE](http://www.ieice.org/nolta/symposium/archive/2016/articles/1185.pdf)]
+1. Hikaru Hoshino, Yoshihiko Susuki, and Takashi Hikihara, Basins of attraction of steady operating conditions in a two-site electricity and heat supply system, Proceedings of the 2016 International Symposium on Nonlinear Theory and its Applications (NOLTA2016), pp.675-678, Yugawara, Japan, November 27-30 (2016). [[IEICE](http://www.ieice.org/nolta/symposium/archive/2016/articles/1185.pdf)]
 
 1. H. Hoshino and Y. Susuki, Graph-based modeling and analysis of dynamic flows in steam supply networks, Proceedings of the 54th IEEE Conference on Decision and Control (CDC2015), pp.1358-1363, Osaka, Japan, December 15-18 (2015).[[IEEE](https://doi.org/10.1109/CDC.2015.7402400)]
 
-1. Y. Susuki, I. Mezic, H. Hoshino, and T. Hikihara, A unified definition of collective instabilities in coupled generator networks, Proceedings of the 4th IFAC Conference on Analysis and Control of Chaotic Systems (CHAOS2015), pp.89-94, Tokyo, Japan, August 26-28 (2015). [[ScienceDirect](https://doi.org/10.1016/j.ifacol.2015.11.016)]
+1. Yoshihiko Susuki, Igor Mezic, Hikaru Hoshino, and Takashi Hikihara, A unified definition of collective instabilities in coupled generator networks, Proceedings of the 4th IFAC Conference on Analysis and Control of Chaotic Systems (CHAOS2015), pp.89-94, Tokyo, Japan, August 26-28 (2015). [[ScienceDirect](https://doi.org/10.1016/j.ifacol.2015.11.016)]
 
-1. H. Hoshino, Y. Susuki, and T. Hikihara, A nonlinear dynamical model of two-sites electricity and heat supply system, Proceedings of the 2014 International Symposium on Nonlinear Theory and its Applications (NOLTA2014), pp.482-485, Luzern, Switzerland, September 14-18 (2014). [[IEICE](http://www.ieice.org/nolta/symposium/archive/2014/articles/C2L-A2-6065.pdf)]
+1. Hikaru Hoshino, Yoshihiko Susuki, and Takashi Hikihara, A nonlinear dynamical model of two-sites electricity and heat supply system, Proceedings of the 2014 International Symposium on Nonlinear Theory and its Applications (NOLTA2014), pp.482-485, Luzern, Switzerland, September 14-18 (2014). [[IEICE](http://www.ieice.org/nolta/symposium/archive/2014/articles/C2L-A2-6065.pdf)]
 
-1. Y. Susuki, H. Hoshino, T. Hikihara, and I. Mezic, Nonlinear instability of a network of fixed-speed induction generators, Proceedings of the 13th European Control Conference (ECC2014), pp.1313-1318, Strasbourg, France, June 24-27 (2014). [[IEEE](https://doi.org/10.1109/ECC.2014.6862396)]
+1. Yoshihiko Susuki, Hikaru Hoshino, Takashi Hikihara, and Igor Mezic, Nonlinear instability of a network of fixed-speed induction generators, Proceedings of the 13th European Control Conference (ECC2014), pp.1313-1318, Strasbourg, France, June 24-27 (2014). [[IEEE](https://doi.org/10.1109/ECC.2014.6862396)]
 
 
 ### 国内学会発表 (2019年度以降)
 
 共同研究者登壇分を含む．**太字**が発表者. 
+
+1. **持丸 祥摩**，星野 光，古谷 栄光, 小島 茂，髙 友香子，岡庭 みゆき, 複合樹脂の混練および射出成形プロセスの構造方程式によるモデル化に関する一検討, 2024年度計測自動制御学会関西支部・システム制御情報学会シンポジウム, A2-1, 大阪工業大学梅田キャンパス, 2026年1月10日. **優秀発表賞**
+
+1. **西村 憲二郎**, 星野 光, 古谷 栄光, 車両ダイナミクスの確率モデルに基づく燃料電池システムのエネルギー消費に関する一検討, 第68回自動制御連合講演会, 21E-3, 名古屋大学東山キャンパス, 2025年11月2日. 
+
+1. **金澤 友生**, 星野 光, 古谷 栄光, 強化学習に基づく卸電力市場における発電事業者の入札戦略と送電容量の同時最適化に関する検討, 令和7年 電気学会 電力・エネルギー部門大会, P58, 琉球大学千原キャンパス, 2025年9月17日.
+
+1. **萬谷 太陽**, 星野 光, 古谷 栄光, 蓄電池を活用する再生可能エネルギー事業者の入札戦略と電力市場価格の関係についての一考察, 令和7年 電気学会 電力・エネルギー部門大会, P53, 琉球大学千原キャンパス, 2025年9月17日.
+
+1. **橋間 尚樹**, 星野 光, 古谷 栄光, 事故時周波数変動に対する電力系統の確率的セキュリティ評価：分離系統を対象とした可到達性解析の適用, 令和7年 電気学会 電力・エネルギー部門大会, P11, 琉球大学千原キャンパス, 2025年9月17日.
+
+1. **金澤 友生**, 星野 光, 古谷 栄光, 強化学習による卸電力市場モデルを用いた電力系統の長期計画に関する一検討, 第69回システム制御情報学会研究発表講演会, 33E4, 神戸市産業振興センター, 2025年5月27日.
+
+1. **橋間 尚樹**, 星野 光, 古谷 栄光, 強化学習を用いた可到達解析によるコンバインドサイクル発電システムのリスク評価に関する検討, 第69回システム制御情報学会研究発表講演会, 32C2, 神戸市産業振興センター, 2025年5月27日.
+
+1. **萬谷 太陽**, 星野 光, 古谷 栄光,
+強化学習による発電事業者の市場入札戦略と蓄電池容量の統合最適化: 異なる学習手法の比較,
+第69回システム制御情報学会研究発表講演会, 32C1, 神戸市産業振興センター, 2025年5月27日.
+
+1. **上川 桜典**, 星野 光, 古谷 栄光,
+FRITによる麻酔鎮静度制御システムの調整のための麻酔導入時の入力信号の検討,
+第69回システム制御情報学会研究発表講演会, 31F6, 神戸市産業振興センター, 2025年5月27日.
 
 1. **岩井 克樹**, 星野 光, 古谷 栄光,
 変分方程式を用いた不均一ホライゾンIterative LQR：化学プロセスの濃度制御への適用例,
