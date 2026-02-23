@@ -9,7 +9,7 @@ date = "2026-01-23"
 
 1. Taiyo Mantani, Hikaru Hoshino, Eiko Furutani,
 Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
-IEEE Transactions on Energy Markets, Policy and Regulation (accepted). 
+IEEE Transactions on Energy Markets, Policy and Regulation (Early Access). 
 [[IEEE](https://doi.org/10.1109/TEMPR.2025.3645733)]
 
 1. Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, and Gotaro Shirakami,
@@ -93,6 +93,15 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 
 ### 国際会議録
+
+1. Tomonari Kanazawa, Hikaru Hoshino, Eiko Furutani,
+ A reinforcement learning-based transmission expansion framework considering strategic bidding in electricity markets,
+in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+
+1. Naoki Hashima, Hikaru Hoshino, Luis David Pabón Ospina, Eiko Furutani,
+Probabilistic reachability analysis of multi-scale voltage dynamics using reinforcement learning,
+in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+[[arXiv](https://doi.org/10.48550/arXiv.2602.13896)]
 
 1. Zhuoyuan Wang, Xiyu Deng, Hikaru Hoshino, and Yorie Nakahira,
 Online adaptive probabilistic safety certificate with language guidance,

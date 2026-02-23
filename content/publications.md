@@ -5,6 +5,15 @@ title = "Publication List"
 
 #### 2026
 
+1. Tomonari Kanazawa, Hikaru Hoshino, Eiko Furutani,
+ A reinforcement learning-based transmission expansion framework considering strategic bidding in electricity markets,
+in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+
+1. Naoki Hashima, Hikaru Hoshino, Luis David Pabón Ospina, Eiko Furutani,
+Probabilistic reachability analysis of multi-scale voltage dynamics using reinforcement learning,
+in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+[[arXiv](https://doi.org/10.48550/arXiv.2602.13896)]
+
 1. Zhuoyuan Wang, Xiyu Deng, Hikaru Hoshino, and Yorie Nakahira,
 Online adaptive probabilistic safety certificate with language guidance,
 in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), Los Angeles, CA, USA, June 17-19 (2026) (accepted). 
