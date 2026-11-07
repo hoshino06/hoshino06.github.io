@@ -16,3 +16,52 @@ body {
     content: "[" counter(pub-counter) "] ";
 }
 
+
+
+/* cv (経歴ページ) */
+.cv h2 {
+    font-size: 2.2rem;
+    line-height: 1.4;
+    margin: 4.8rem 0 1.6rem 0;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid #ddd;
+}
+.cv > h2:first-child {
+    margin-top: 2.4rem;
+}
+.cv h3 {
+    font-size: 1.6rem;
+    line-height: 1.4;
+    margin: 2.4rem 0 1.0rem 0;
+    padding-left: 0.8rem;
+    border-left: 4px solid #bbb;
+    color: #444;
+}
+.cv ul {
+    padding-left: 1.4em;
+    margin: 0;
+}
+.cv li {
+    line-height: 1.6;
+    margin: 0 0 0.5em 0;
+}
+.cv li::marker {
+    color: #aaa;
+}
+.cv li p {
+    margin: 0;
+}
+.cv .cv-date {
+    color: #777;
+    margin-right: 0.8em;
+    font-variant-numeric: tabular-nums;
+}
+.cv li a {
+    font-weight: normal;
+    text-decoration: underline;
+    text-decoration-color: #bbb;
+    text-underline-offset: 0.25em;
+}
+.cv li a:hover {
+    text-decoration-color: currentColor;
+}

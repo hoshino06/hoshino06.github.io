@@ -1,14 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Educations on Hikaru Hoshino</title><link>https://hoshino06.github.io/ja/education/</link><description>Recent content in Educations on Hikaru Hoshino</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hoshino06.github.io/ja/education/index.xml" rel="self" type="application/rss+xml"/><item><title>電気工学思考型実験「ホール効果」サポートページ</title><link>https://hoshino06.github.io/ja/education/halleffect/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/halleffect/</guid><description>ここは電気工学コース3年生の電気工学思考型実験「ホール効果（半導体の電気的特性）」のサポートページです. 実験の内容や指示内容について手引書を熟読するとともに, 実験の予習と復習(レポート作成)のために本ページの内容を適宜活用してください. 前半は実験の様子を説明した動画です. 元々はCOVIT-19対策で遠隔を余儀なくされたために撮影したものですが, 予習のために有益であると思われるため公開を続けています. 後半はレポート作成のためのサポート内容です. 手引書の電子データを公開しているので適宜活用してください.
-実験の動画 動画1. 測定対象と測定装置
-動画2. 抵抗率の測定
-動画3. ホール電圧の測定
-手引書の図 実験レポートの作成は手書きによる作成/パソコンによる作成/それらの併用のいずれでもかまいません. レポート作成で実験手引書の図を使いたいという人のためにデータを公開しています. 写真のデータはjpgとpdf, それ以外の図はsvgとpdfの形式を用意しています. svg形式のデータはinkscapeというソフトウェアで編集/その他の形式で保存できます.
-実験手引書の図はこちら
-LaTeXによるレポート作成 この実験テーマではレポート作成にLaTeXを使ってみることをおすすめしています. LaTeXを使うと複雑な数式を含んでいてもきれいな文書を作ることができます. 論文を書く場合にはLaTeXでの作成を求められる場合もあり, 大学によっては必修科目でその使い方を教えているところもあるほど広く利用されています.
-ここではじめてLaTeXを使う人のためにレポート作成の手引きを公開していますので参考にしてみてください. 他にもLaTeXに関する本や参考となるWebページもたくさんあるので, それらとあわせて活用してもらえればと思います. また, 実験手引書の電子データがダウンロード可能ですので, そちらも適宜活用してください.
-LaTeXによるレポート作成の手引きはこちら
-実験手引書の電子データはこちら
-なお, レポートを作成する方法 (手書き/Word/LaTex/手書きとPCの併用など) はレポート評価には一切含みません. LaTeXを使ったからといって加点はありませんし, 手書きだからといって減点もありません.</description></item><item><title>教育活動</title><link>https://hoshino06.github.io/ja/education/class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/class/</guid><description>学内講義 電気回路演習(1年後期) (2019年度～）
-電気工学思考型実験(3年前期/後期) (2019年度～) ホール効果（半導体の電気的特性）サポートページ
-学外講義 明石工業高等専門学校 ディジタル電子回路 (2020年度後期, 2021年度後期, 2022年度後期)
-東京女子大学 エネルギー産業と国民生活 (第8回 再生可能エネルギーの現状と課題 担当) (2018年度～2021年度)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Educations on Hikaru Hoshino</title><link>https://hoshino06.github.io/ja/education/</link><description>Recent content in Educations on Hikaru Hoshino</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hoshino06.github.io/ja/education/index.xml" rel="self" type="application/rss+xml"/><item><title>電気工学思考型実験「ホール効果」サポートページ</title><link>https://hoshino06.github.io/ja/education/halleffect/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/halleffect/</guid><description>&lt;hr&gt;
+&lt;p&gt;ここは電気工学コース3年生の電気工学思考型実験「ホール効果（半導体の電気的特性）」のサポートページです. 実験の内容や指示内容について手引書を熟読するとともに, 実験の予習と復習(レポート作成)のために本ページの内容を適宜活用してください.
+前半は実験の様子を説明した動画です. 元々はCOVIT-19対策で遠隔を余儀なくされたために撮影したものですが, 予習のために有益であると思われるため公開を続けています.
+後半はレポート作成のためのサポート内容です. 手引書の電子データを公開しているので適宜活用してください.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実験の動画"&gt;実験の動画&lt;/h2&gt;
+&lt;p&gt;動画1. 測定対象と測定装置&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NKnk_CJS5mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;動画2. 抵抗率の測定&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nF2NFu8N48Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;動画3. ホール電圧の測定&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vVCwwC98fnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id="手引書の図"&gt;手引書の図&lt;/h3&gt;
+&lt;p&gt;実験レポートの作成は手書きによる作成/パソコンによる作成/それらの併用のいずれでもかまいません.
+レポート作成で実験手引書の図を使いたいという人のためにデータを公開しています.
+写真のデータはjpgとpdf, それ以外の図はsvgとpdfの形式を用意しています. svg形式のデータはinkscapeというソフトウェアで編集/その他の形式で保存できます.&lt;/p&gt;
+&lt;p&gt;&lt;a href="../../education/halleffect_files/hall_effect_figs.zip"&gt;実験手引書の図はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="latexによるレポート作成"&gt;LaTeXによるレポート作成&lt;/h3&gt;
+&lt;p&gt;この実験テーマではレポート作成にLaTeXを使ってみることをおすすめしています.
+LaTeXを使うと複雑な数式を含んでいてもきれいな文書を作ることができます.
+論文を書く場合にはLaTeXでの作成を求められる場合もあり, 大学によっては必修科目でその使い方を教えているところもあるほど広く利用されています.&lt;/p&gt;
+&lt;p&gt;ここではじめてLaTeXを使う人のためにレポート作成の手引きを公開していますので参考にしてみてください.
+他にもLaTeXに関する本や参考となるWebページもたくさんあるので, それらとあわせて活用してもらえればと思います.
+また, 実験手引書の電子データがダウンロード可能ですので, そちらも適宜活用してください.&lt;/p&gt;
+&lt;p&gt;LaTeXによるレポート作成の手引きは&lt;a href="../../education/halleffect_files/hall_effect_latex_guide.pdf"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;実験手引書の電子データは&lt;a href="../../education/halleffect_files/hall_effect.zip"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なお, レポートを作成する方法 (手書き/Word/LaTex/手書きとPCの併用など) はレポート評価には一切含みません. LaTeXを使ったからといって加点はありませんし, 手書きだからといって減点もありません.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>教育活動</title><link>https://hoshino06.github.io/ja/education/class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/class/</guid><description>&lt;h3 id="学内講義"&gt;学内講義&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;電気回路演習(1年後期) (2019年度～）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;電気工学思考型実験(3年前期/後期) (2019年度～)
+&lt;br&gt;
+   &lt;a href="../halleffect"&gt;ホール効果（半導体の電気的特性）サポートページ&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="学外講義"&gt;学外講義&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;明石工業高等専門学校
+&lt;a href="https://syllabus.kosen-k.go.jp/Pages/SyllabusPDF?school_id=27&amp;amp;department_id=12&amp;amp;subject_code=0055&amp;amp;year=2018" target="_blank" rel="noopener noreferrer"&gt; ディジタル電子回路 &lt;/a&gt;
+ 
+ (2020年度後期, 2021年度後期, 2022年度後期)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;東京女子大学
+&lt;a href="https://office3.bb.twcu.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c9779E4D9-AB3C-8D0A-0B4C-9CACA2877BAD_k45EE0044-676C-0ABF-0196-545787CDA644" target="_blank" rel="noopener noreferrer"&gt; エネルギー産業と国民生活 &lt;/a&gt;
+ 
+
+(第8回 再生可能エネルギーの現状と課題 担当) (2018年度～2021年度)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

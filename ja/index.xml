@@ -1,28 +1,187 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hikaru Hoshino</title><link>https://hoshino06.github.io/ja/</link><description>Recent content on Hikaru Hoshino</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hoshino06.github.io/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>研究成果リスト</title><link>https://hoshino06.github.io/ja/publications/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/publications/</guid><description>学術論文誌 Taiyo Mantani, Hikaru Hoshino, Eiko Furutani, Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, IEEE Transactions on Energy Markets, Policy and Regulation (Early Access). [IEEE]
-Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, and Gotaro Shirakami, Mechanism-based modeling of neuromuscular monitoring measures during general anesthesia, IEEE Access, Vol. 13, pp. 214655&amp;ndash;214667 (2025). [IEEE]
-Hikaru Hoshino, Gradient-based co-design of nonlinear optimal regulators with stability guarantee, IEEE Control Systems Letters, Vol.</description></item><item><title>経歴</title><link>https://hoshino06.github.io/ja/about/</link><pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/about/</guid><description>研究者情報 1989年12月生まれ 研究者番号: 30836292 Google Scholar Researchmap 兵庫県立大学研究者情報 学歴 2008年3月 京都成章高等学校卒業 2012年3月 京都大学工学部電気電子工学科卒業 2014年3月 京都大学 大学院工学研究科 電気工学専攻 修士課程 修了 2017年3月 同 博士後期課程修了 京都大学博士(工学) 指導教員: 引原隆士 教授 職歴 2017年4月1日～2019年3月31日 (一財)電力中央研究所 社会経済研究所 研究員(2018年8月～ 主任研究員) 2019年4月1日～ 兵庫県立大学 大学院工学研究科 電気物性工学専攻 助教 2023年4月1日～2023年9月30日, 2024年1月3日～3月31日 カーネギーメロン大学CyLab 客員研究員 受賞歴 2015年3月 平成26年度工学研究科長賞(高大連携事業【学びコーディネータ】による教育活動への貢献) 2015年5月 システム制御情報学会 2015年度学会賞 論文賞 (星野光, 薄良彦, 引原隆士) 2015年6月 電子情報通信学会 非線形問題研究会第2回(2014年度)NLP発表奨励賞 2016年5月 システム制御情報学会 SCI'16学生発表賞 2016年11月 第59回自動制御連合講演会優秀発表賞 2016年11月 Finalist of NOLTA 2016 Best Student Paper Award 2022年6月 Asian Journal of Control Outstanding Reviewers of 2021 2023年2月 電気学会 2022年電子・情報・システム部門技術委員会奨励賞 2024年11月 2024 IEEE Industrial Electronics and Applications Conference (IEACon) Best Paper Award 研究助成 2020年4月～2021年3月 東電記念財団研究助成(一般研究), 需要家側における分散型エネルギー源の導入に係る費用構造の分析手法の開発, 研究代表者 2020年4月～2022年3月 科学研究費補助金 若手研究, アンシラリーサービス提供のためのコージェネレーションの協調制御, 研究代表者 2021年10月～2025年3月 JST ACT-X, 数理・情報のフロンティア領域, 電気料金設計のためのマルチスケールモデリング, 研究代表者 2023年4月～ 科学研究費補助金 若手研究, 電気と熱の統合供給ネットワークのモデリングと制御, 研究代表者 2023年4月～ 科学研究費補助金 基盤研究(C), データ駆動手法を利用した静脈麻酔制御システムの研究, 研究分担者 2024年4月～2025年3月 関西エネルギー・リサイクル科学研究振興財団, 高時間解像度の運用を考慮した電力エネルギー供給系の設備計画最適化手法, 研究代表者 その他 扱ったことのあるプログラミング言語: C, Python, MATLAB/Simulink, Mathematica, シェルスクリプト, HTML/CSS</description></item><item><title>研究テーマ</title><link>https://hoshino06.github.io/ja/research/</link><pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/research/</guid><description>電力エネルギーシステムや医療システムへの制御応用を中心に研究を進めています. 具体的な内容は以下の通りです.
-電気と熱のエネルギー管理および制御システムの開発 太陽光や風力などの再生可能エネルギー電源を電力系統に大量に導入するためには, その出力変動を補完する仕組みが必要です. この研究では, 都市部における地域熱供給システムの熱源として導入されているコージェネレーションプラント(熱電併給プラント)をそのような変動補完に利用するための制御システムの開発を行います. コージェネレーションは電気と熱を同時に供給できますが, その比を自由に変えることができません. そこで, 複数のコージェネレーションの協調制御によって電気と熱の両方について望ましい制御を行うための統合的なモデリング, 解析, 制御技術の開発を行います.
-[参考] H. Hoshino, Y. Susuki, T. J. Koo, and T. Hikihara, Structural analysis and control of a model of two-site electricity and heat supply, Journal of Dynamic Systems, Measurement, and Control, 141(10), 101004 (2019). [ASME] [arXiv]
-電気料金による需要家の電力消費の制御 電気料金を変動させることによって需要側で電力消費パターンを変えることはデマンドレスポンスと呼ばれ, これまで工場や商業ビルなどの大口の需要家を対象に実施されてきました. 将来的には, スマートメータや電気自動車の普及によって, 一般家庭においても類似の取り組みが実施されると期待されます. この研究では, 電気料金に対して多数の需要家がどのように振舞いうるのかをシステム最適化手法などを活用して検討します. 短期的なデマンドレスポンスのみでなく, 分散型エネルギー源への投資などの長期的な振る舞いも含めた需要家群の反応の解析および制御について検討します.
-[参考] 星野光, 古澤健, 岡田健司, 分散型エネルギー源の利活用を前提とした配電料金設計のためのモデル分析の動向と課題, 電力中央研究所社会経済研究所ディスカッションペーパー, SERC17002 (2018). [社経研]
-全身麻酔における筋弛緩状態のモデル化と筋弛緩度制御 腹腔鏡手術(内視鏡手術)が近年増加しています. 腹腔鏡手術では従来よりも深い筋弛緩状態が要求されますが, 浅い筋弛緩状態と深い筋弛緩状態では測定のメカニズムが異なり, それらを統一的に説明するモデルが確立されていません.</description></item><item><title>連絡先</title><link>https://hoshino06.github.io/ja/contact/</link><pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/contact/</guid><description> メールアドレス: hoshino +at+ eng.u-hyogo.ac.jp (+at+を@に置き換えてください) 住所: 671-2280 兵庫県姫路市書写2167 姫路工学キャンパス 居室: B棟314 姫路工学キャンパス キャンパスマップ 予定表</description></item><item><title>電気工学思考型実験「ホール効果」サポートページ</title><link>https://hoshino06.github.io/ja/education/halleffect/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/halleffect/</guid><description>ここは電気工学コース3年生の電気工学思考型実験「ホール効果（半導体の電気的特性）」のサポートページです. 実験の内容や指示内容について手引書を熟読するとともに, 実験の予習と復習(レポート作成)のために本ページの内容を適宜活用してください. 前半は実験の様子を説明した動画です. 元々はCOVIT-19対策で遠隔を余儀なくされたために撮影したものですが, 予習のために有益であると思われるため公開を続けています. 後半はレポート作成のためのサポート内容です. 手引書の電子データを公開しているので適宜活用してください.
-実験の動画 動画1. 測定対象と測定装置
-動画2. 抵抗率の測定
-動画3. ホール電圧の測定
-手引書の図 実験レポートの作成は手書きによる作成/パソコンによる作成/それらの併用のいずれでもかまいません. レポート作成で実験手引書の図を使いたいという人のためにデータを公開しています. 写真のデータはjpgとpdf, それ以外の図はsvgとpdfの形式を用意しています. svg形式のデータはinkscapeというソフトウェアで編集/その他の形式で保存できます.
-実験手引書の図はこちら
-LaTeXによるレポート作成 この実験テーマではレポート作成にLaTeXを使ってみることをおすすめしています. LaTeXを使うと複雑な数式を含んでいてもきれいな文書を作ることができます. 論文を書く場合にはLaTeXでの作成を求められる場合もあり, 大学によっては必修科目でその使い方を教えているところもあるほど広く利用されています.
-ここではじめてLaTeXを使う人のためにレポート作成の手引きを公開していますので参考にしてみてください. 他にもLaTeXに関する本や参考となるWebページもたくさんあるので, それらとあわせて活用してもらえればと思います. また, 実験手引書の電子データがダウンロード可能ですので, そちらも適宜活用してください.
-LaTeXによるレポート作成の手引きはこちら
-実験手引書の電子データはこちら
-なお, レポートを作成する方法 (手書き/Word/LaTex/手書きとPCの併用など) はレポート評価には一切含みません. LaTeXを使ったからといって加点はありませんし, 手書きだからといって減点もありません.</description></item><item><title/><link>https://hoshino06.github.io/ja/message/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/message/</guid><description>学生へのメッセージ ここは, 本学の電気電子情報工学科（電気工学コース）の学生で, 卒業研究の配属希望先を検討中の方に向けたページです. 普段よく聞かれる質問に答える形で, 卒業研究に関する私（星野）の考え方を述べます. 研究室の見学や相談は随時受け付けますので下記までお問合せください.
-連絡先: hoshino@eng.u-hyogo.ac.jp
-自分は研究職を志望するわけではないですが卒業研究は必要ですか？ はい, 卒業研究の経験は, 将来研究職に就く人でなくても, 企業で仕事をしていくのに重要な能力を育む場だと考えています. 卒業研究での取り組みは, 皆さんがこれまで経験してきた講義ベースの学習とは異なります. これまで皆さんがやってきたのは, 講義を受けて教科書の内容を理解し, 専門知識を習得するということが目標だったのではないでしょうか? これに対して卒業研究というのは「研究」というだけあって, 既存の専門知識を習得するだけでなく, そこに新たな知見を加える行為です. そう言うと, 教科書を理解するだけでも大変なのに, そこに何か新しいアイデアを付け加えるなんてとても考えられない, と思うでしょうか？
-卒業研究では社会的あるいは学術的に解決が望まれている, まだ正解のない問題を扱います. そこで皆さんは, 教科書的な知識だけでは対応できないことがたくさんあるのを目の当たりにするでしょう. そのとき皆さんに求められるのは, 教科書に書いてある方法でなぜ上手く行かないのか, むしろ教科書ではなぜ上手くいっていたのか, 目の前の問題を解決するにはどのような工夫が必要なのか, ということを考えることです. 残念ながらほとんどの人が, 問題のパターンに応じて教科書の公式を覚え, 数値を当てはめて答えを出すというやり方をしていますが, それでは全く歯が立ちません. 卒業研究では, このような観点で講義の内容の理解を問い直し, それを現実の問題にあてはめるという作業を, 教員のサポートのもとで進めていきます. その中で, 先人が残した知識体系の意味をきちんと理解し, 必要に応じてそれを修正していくということを経験してもらいます.
-実はこのようなことは皆さんが就職して仕事をする上で必要となる考え方に他なりません. 社会は常に変化していますから, これまでの方法がこれからも有効だとは限りません. 上司がその方法でやっていたから, あるいは上司がその方法でやれと言ったからといって安心していると, 時代の変化についていけず, 仕事で成功をつかむことは難しいでしょう. 大切なのは, なぜこれまでの方法が良しとされたのかをきちんと理解し, 必要に応じてそれを修正し続けることです. 卒業研究というのは, そのような考え方を身に着ける実践的な訓練の場であるということを理解してください.
-同じ理由でメーカなどに技術者として就職を希望する人には, 希望の業種と研究テーマの関連は関係なく修士課程への進学をすすめています（卒業論文や修士論文で扱うテーマの内容自体はまったく就職先の業種に関係する必要はありません）.
-研究テーマはどのようなものを扱いますか？ 私の担当に配属された学生には，システム制御技術のエネルギー分野や医療分野への応用に関連するテーマに取り組んでもらいます. 自動制御（フィードバック制御）や数理最適化，機械学習を基礎として, それを電力系統を含むエネルギー分野や, 手術中の全身麻酔の管理・制御などの医療分野へと応用します.
-エネルギー分野や医療分野など幅広い研究テーマを扱っていますが, それらに共通して重要となる基礎知識は, 対象の挙動を微分方程式でモデル化して分析する方法です. 学部の授業でいえば, 「解析学I,II」や「代数学I,II」で習う微分方程式や線形代数はもちろんですが, 「力学」や「振動・波動論」などの物理に加え, 「電気回路II」で扱う電気回路の過渡現象, 「制御システムI, II」におけるフィードバック制御, 「電力輸送工学II」で扱う電力系統の安定性解析（動揺方程式と等面積法）などの科目が関連します.</description></item><item><title>教育活動</title><link>https://hoshino06.github.io/ja/education/class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/class/</guid><description>学内講義 電気回路演習(1年後期) (2019年度～）
-電気工学思考型実験(3年前期/後期) (2019年度～) ホール効果（半導体の電気的特性）サポートページ
-学外講義 明石工業高等専門学校 ディジタル電子回路 (2020年度後期, 2021年度後期, 2022年度後期)
-東京女子大学 エネルギー産業と国民生活 (第8回 再生可能エネルギーの現状と課題 担当) (2018年度～2021年度)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hikaru Hoshino</title><link>https://hoshino06.github.io/ja/</link><description>Recent content on Hikaru Hoshino</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hoshino06.github.io/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>研究成果リスト</title><link>https://hoshino06.github.io/ja/publications/</link><pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/publications/</guid><description>&lt;div class="publications"&gt;
+&lt;h3 id="学術論文誌"&gt;学術論文誌&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Taiyo Mantani, Hikaru Hoshino, Eiko Furutani,
+Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning,
+IEEE Transactions on Energy Markets, Policy and Regulation, Vol. 4, No. 2, pp. 247-258 (2026).
+[&lt;a href="https://doi.org/10.1109/TEMPR.2025.3645733"&gt;IEEE&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, and Gotaro Shirakami,
+Mechanism-based modeling of neuromuscular monitoring measures during general anesthesia,
+IEEE Access, Vol. 13, pp. 214655&amp;ndash;214667 (2025).
+[&lt;a href="https://doi.org/10.1109/ACCESS.2025.3646559"&gt;IEEE&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hikaru Hoshino,
+Gradient-based co-design of nonlinear optimal regulators with stability guarantee,
+IEEE Control Systems Letters, Vol. 9, pp. 2561-2566 (2025).
+[&lt;a href="https://doi.org/10.1109/LCSYS.2025.3634657"&gt;IEEE&lt;/a&gt;]&lt;/p&gt;</description></item><item><title>経歴</title><link>https://hoshino06.github.io/ja/about/</link><pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/about/</guid><description>&lt;div class="cv"&gt;
+&lt;h2 id="研究者情報"&gt;研究者情報&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1989年12月生まれ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;研究者番号: 30836292&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://scholar.google.co.jp/citations?user=y3qOW84AAAAJ&amp;amp;hl=ja" target="_blank" rel="noopener noreferrer"&gt; Google Scholar &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://researchmap.jp/h-hoshino" target="_blank" rel="noopener noreferrer"&gt; Researchmap &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://cv01.ufinity.jp/u_hyogo/index.php?action=pages_view_main&amp;amp;active_action=cvclient_view_main_init&amp;amp;cvid=h-hoshino&amp;amp;display_type=cv&amp;amp;block_id=279" target="_blank" rel="noopener noreferrer"&gt; 兵庫県立大学研究者情報 &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="学歴"&gt;学歴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2008年3月&lt;/span&gt;&lt;span class="cv-body"&gt;京都成章高等学校卒業&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2012年3月&lt;/span&gt;&lt;span class="cv-body"&gt;京都大学工学部電気電子工学科卒業&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2014年3月&lt;/span&gt;&lt;span class="cv-body"&gt;京都大学 大学院工学研究科 電気工学専攻 修士課程 修了&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2017年3月&lt;/span&gt;&lt;span class="cv-body"&gt;京都大学 大学院工学研究科 電気工学専攻 博士後期課程 修了&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;京都大学博士(工学) 指導教員: 引原隆士 教授&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="職歴"&gt;職歴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2017年4月1日～2019年3月31日&lt;/span&gt;&lt;span class="cv-body"&gt;(一財)電力中央研究所 社会経済研究所 研究員(2018年8月～ 主任研究員)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2019年4月1日～&lt;/span&gt;&lt;span class="cv-body"&gt;兵庫県立大学 大学院工学研究科 電気物性工学専攻 助教&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2023年4月1日～2023年9月30日, 2024年1月3日～3月31日&lt;/span&gt;&lt;span class="cv-body"&gt;カーネギーメロン大学CyLab 客員研究員&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="受賞歴"&gt;受賞歴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2015年3月&lt;/span&gt;&lt;span class="cv-body"&gt;京都大学 平成26年度工学研究科長賞(高大連携事業【学びコーディネータ】による教育活動への貢献)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2015年5月&lt;/span&gt;&lt;span class="cv-body"&gt;システム制御情報学会 2015年度学会賞 論文賞 (星野光, 薄良彦, 引原隆士)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2015年6月&lt;/span&gt;&lt;span class="cv-body"&gt;電子情報通信学会 非線形問題研究会第2回(2014年度)NLP発表奨励賞&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2016年5月&lt;/span&gt;&lt;span class="cv-body"&gt;システム制御情報学会 SCI'16学生発表賞&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2016年11月&lt;/span&gt;&lt;span class="cv-body"&gt;第59回自動制御連合講演会優秀発表賞&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2016年11月&lt;/span&gt;&lt;span class="cv-body"&gt;Finalist of NOLTA 2016 Best Student Paper Award&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2022年6月&lt;/span&gt;&lt;span class="cv-body"&gt;Asian Journal of Control Outstanding Reviewers of 2021&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2023年2月&lt;/span&gt;&lt;span class="cv-body"&gt;電気学会 2022年電子・情報・システム部門技術委員会奨励賞&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2024年11月&lt;/span&gt;&lt;span class="cv-body"&gt;2024 IEEE Industrial Electronics and Applications Conference (IEACon) Best Paper Award&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2026年7月&lt;/span&gt;&lt;span class="cv-body"&gt;令和8年度兵庫県立大学研究活動教員表彰 若手研究活動賞&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究助成"&gt;研究助成&lt;/h2&gt;
+&lt;h3 id="研究代表者"&gt;研究代表者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2026年4月～&lt;/span&gt;&lt;span class="cv-body"&gt;科学研究費補助金 基盤研究(C), &lt;a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K07557/"&gt;電力システムの動的リスク評価のための可到達性解析手法の確立&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2026年2月～2027年3月&lt;/span&gt;&lt;span class="cv-body"&gt;パワーアカデミー研究助成 萌芽研究(個人型), &lt;a href="https://www.power-academy.jp/info/2025/004596.html"&gt;複雑な運用制約を考慮可能な次世代電力系統計画手法の開発&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2024年4月～2025年3月&lt;/span&gt;&lt;span class="cv-body"&gt;関西エネルギー・リサイクル科学研究振興財団, 高時間解像度の運用を考慮した電力エネルギー供給系の設備計画最適化手法&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2023年4月～2026年3月&lt;/span&gt;&lt;span class="cv-body"&gt;科学研究費補助金 若手研究, &lt;a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K13354/"&gt;電気と熱の統合供給ネットワークのモデリングと制御&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2021年10月～2025年3月&lt;/span&gt;&lt;span class="cv-body"&gt;JST ACT-X, 数理・情報のフロンティア領域, &lt;a href="https://projectdb.jst.go.jp/grant/JST-PROJECT-21461222/"&gt;電気料金設計のためのマルチスケールモデリング&lt;/a&gt; (2024年4月～ &lt;a href="https://www.jst.go.jp/kisoken/act-x/news/2024/240401/2024_accelerationphase.pdf"&gt;加速フェーズ&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2020年4月～2022年3月&lt;/span&gt;&lt;span class="cv-body"&gt;科学研究費補助金 若手研究, &lt;a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K14768/"&gt;アンシラリーサービス提供のためのコージェネレーションの協調制御&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2020年4月～2021年3月&lt;/span&gt;&lt;span class="cv-body"&gt;東電記念財団研究助成(一般研究), 需要家側における分散型エネルギー源の導入に係る費用構造の分析手法の開発&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="研究分担者"&gt;研究分担者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2026年4月～&lt;/span&gt;&lt;span class="cv-body"&gt;科学研究費補助金 基盤研究(B), &lt;a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K03232/"&gt;エッジAI制御系のリソースアウェアデザイン論：圧縮・適合・分割によるモデル軽量化&lt;/a&gt; (研究代表者: 南 裕樹)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2026年4月～&lt;/span&gt;&lt;span class="cv-body"&gt;科学研究費補助金 基盤研究(C), &lt;a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K07558/"&gt;可到達性解析に基づく安全な麻酔の自動制御の研究&lt;/a&gt; (研究代表者: 古谷 栄光)&lt;/span&gt;&lt;/li&gt;
+&lt;li class="cv-dated"&gt;&lt;span class="cv-date"&gt;2023年4月～2026年3月&lt;/span&gt;&lt;span class="cv-body"&gt;科学研究費補助金 基盤研究(C), &lt;a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K03912/"&gt;データ駆動手法を利用した静脈麻酔制御システムの研究&lt;/a&gt; (研究代表者: 古谷 栄光)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="その他"&gt;その他&lt;/h2&gt;
+&lt;p&gt;扱ったことのあるプログラミング言語:
+&lt;br&gt; C, Python, MATLAB/Simulink, Mathematica, シェルスクリプト, HTML/CSS&lt;/p&gt;</description></item><item><title>研究テーマ</title><link>https://hoshino06.github.io/ja/research/</link><pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/research/</guid><description>&lt;p&gt;電力エネルギーシステムや医療システムへの制御応用を中心に研究を進めています.
+具体的な内容は以下の通りです.&lt;/p&gt;
+&lt;h3 id="電気と熱のエネルギー管理および制御システムの開発"&gt;電気と熱のエネルギー管理および制御システムの開発&lt;/h3&gt;
+&lt;p&gt;太陽光や風力などの再生可能エネルギー電源を電力系統に大量に導入するためには, その出力変動を補完する仕組みが必要です. この研究では, 都市部における地域熱供給システムの熱源として導入されているコージェネレーションプラント(熱電併給プラント)をそのような変動補完に利用するための制御システムの開発を行います. コージェネレーションは電気と熱を同時に供給できますが, その比を自由に変えることができません. そこで, 複数のコージェネレーションの協調制御によって電気と熱の両方について望ましい制御を行うための統合的なモデリング, 解析, 制御技術の開発を行います.&lt;/p&gt;
+&lt;p&gt;[参考] H. Hoshino, Y. Susuki, T. J. Koo, and T. Hikihara,
+Structural analysis and control of a model of two-site electricity and heat supply,
+Journal of Dynamic Systems, Measurement, and Control, 141(10), 101004 (2019).
+[&lt;a href="https://doi.org/10.1115/1.4043703"&gt;ASME&lt;/a&gt;]
+[&lt;a href="https://arxiv.org/abs/1809.03939"&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+&lt;h3 id="電気料金による需要家の電力消費の制御"&gt;電気料金による需要家の電力消費の制御&lt;/h3&gt;
+&lt;p&gt;電気料金を変動させることによって需要側で電力消費パターンを変えることはデマンドレスポンスと呼ばれ, これまで工場や商業ビルなどの大口の需要家を対象に実施されてきました. 将来的には, スマートメータや電気自動車の普及によって, 一般家庭においても類似の取り組みが実施されると期待されます. この研究では, 電気料金に対して多数の需要家がどのように振舞いうるのかをシステム最適化手法などを活用して検討します. 短期的なデマンドレスポンスのみでなく, 分散型エネルギー源への投資などの長期的な振る舞いも含めた需要家群の反応の解析および制御について検討します.&lt;/p&gt;
+&lt;p&gt;[参考] 星野光, 古澤健, 岡田健司, 分散型エネルギー源の利活用を前提とした配電料金設計のためのモデル分析の動向と課題, 電力中央研究所社会経済研究所ディスカッションペーパー, SERC17002 (2018). [&lt;a href="https://criepi.denken.or.jp/jp/serc/discussion/2017.html"&gt;社経研&lt;/a&gt;]&lt;/p&gt;
+&lt;h3 id="全身麻酔における筋弛緩状態のモデル化と筋弛緩度制御"&gt;全身麻酔における筋弛緩状態のモデル化と筋弛緩度制御&lt;/h3&gt;
+&lt;p&gt;腹腔鏡手術(内視鏡手術)が近年増加しています. 腹腔鏡手術では従来よりも深い筋弛緩状態が要求されますが, 浅い筋弛緩状態と深い筋弛緩状態では測定のメカニズムが異なり, それらを統一的に説明するモデルが確立されていません. この研究では, 筋弛緩の深さの自動調整を行うために, 広い範囲の筋弛緩状態のモデル化と制御手法の開発を行います. なお, このテーマは&lt;a href="http://www.eng.u-hyogo.ac.jp/outline/faculty/furutani/index.html"&gt;古谷栄光教授&lt;/a&gt;{:target=&amp;ldquo;blank_&amp;quot;}との共同研究です.&lt;/p&gt;</description></item><item><title>連絡先</title><link>https://hoshino06.github.io/ja/contact/</link><pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/contact/</guid><description>&lt;ul&gt;
+&lt;li&gt;メールアドレス: hoshino +at+ eng.u-hyogo.ac.jp (+at+を@に置き換えてください)&lt;/li&gt;
+&lt;li&gt;住所: 671-2280 兵庫県姫路市書写2167 姫路工学キャンパス&lt;/li&gt;
+&lt;li&gt;居室: B棟314&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.u-hyogo.ac.jp/campuslife/access/pdf/campusmap_02.pdf" target="_blank" rel="noopener noreferrer"&gt; 姫路工学キャンパス キャンパスマップ &lt;/a&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="予定表"&gt;予定表&lt;/h2&gt;
+&lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FTokyo&amp;showTitle=0&amp;showPrint=0&amp;showNav=1&amp;showCalendars=0&amp;showTabs=1&amp;src=YTZvODE5aTZzc2FhYzZ1N3U2OHQ4azRkMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=amEuamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%234285F4&amp;color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;</description></item><item><title>電気工学思考型実験「ホール効果」サポートページ</title><link>https://hoshino06.github.io/ja/education/halleffect/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/halleffect/</guid><description>&lt;hr&gt;
+&lt;p&gt;ここは電気工学コース3年生の電気工学思考型実験「ホール効果（半導体の電気的特性）」のサポートページです. 実験の内容や指示内容について手引書を熟読するとともに, 実験の予習と復習(レポート作成)のために本ページの内容を適宜活用してください.
+前半は実験の様子を説明した動画です. 元々はCOVIT-19対策で遠隔を余儀なくされたために撮影したものですが, 予習のために有益であると思われるため公開を続けています.
+後半はレポート作成のためのサポート内容です. 手引書の電子データを公開しているので適宜活用してください.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="実験の動画"&gt;実験の動画&lt;/h2&gt;
+&lt;p&gt;動画1. 測定対象と測定装置&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NKnk_CJS5mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;動画2. 抵抗率の測定&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nF2NFu8N48Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;動画3. ホール電圧の測定&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vVCwwC98fnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id="手引書の図"&gt;手引書の図&lt;/h3&gt;
+&lt;p&gt;実験レポートの作成は手書きによる作成/パソコンによる作成/それらの併用のいずれでもかまいません.
+レポート作成で実験手引書の図を使いたいという人のためにデータを公開しています.
+写真のデータはjpgとpdf, それ以外の図はsvgとpdfの形式を用意しています. svg形式のデータはinkscapeというソフトウェアで編集/その他の形式で保存できます.&lt;/p&gt;
+&lt;p&gt;&lt;a href="../education/halleffect_files/hall_effect_figs.zip"&gt;実験手引書の図はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="latexによるレポート作成"&gt;LaTeXによるレポート作成&lt;/h3&gt;
+&lt;p&gt;この実験テーマではレポート作成にLaTeXを使ってみることをおすすめしています.
+LaTeXを使うと複雑な数式を含んでいてもきれいな文書を作ることができます.
+論文を書く場合にはLaTeXでの作成を求められる場合もあり, 大学によっては必修科目でその使い方を教えているところもあるほど広く利用されています.&lt;/p&gt;
+&lt;p&gt;ここではじめてLaTeXを使う人のためにレポート作成の手引きを公開していますので参考にしてみてください.
+他にもLaTeXに関する本や参考となるWebページもたくさんあるので, それらとあわせて活用してもらえればと思います.
+また, 実験手引書の電子データがダウンロード可能ですので, そちらも適宜活用してください.&lt;/p&gt;
+&lt;p&gt;LaTeXによるレポート作成の手引きは&lt;a href="../education/halleffect_files/hall_effect_latex_guide.pdf"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;実験手引書の電子データは&lt;a href="../education/halleffect_files/hall_effect.zip"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;なお, レポートを作成する方法 (手書き/Word/LaTex/手書きとPCの併用など) はレポート評価には一切含みません. LaTeXを使ったからといって加点はありませんし, 手書きだからといって減点もありません.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title/><link>https://hoshino06.github.io/ja/message/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/message/</guid><description>&lt;h2 id="学生へのメッセージ"&gt;学生へのメッセージ&lt;/h2&gt;
+&lt;p&gt;ここは, 本学の電気電子情報工学科（電気工学コース）の学生で, 卒業研究の配属希望先を検討中の方に向けたページです.
+普段よく聞かれる質問に答える形で, 卒業研究に関する私（星野）の考え方を述べます.
+研究室の見学や相談は随時受け付けますので下記までお問合せください.&lt;/p&gt;
+&lt;p&gt;連絡先: &lt;a href="mailto:hoshino@eng.u-hyogo.ac.jp"&gt;hoshino@eng.u-hyogo.ac.jp&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="自分は研究職を志望するわけではないですが卒業研究は必要ですか"&gt;自分は研究職を志望するわけではないですが卒業研究は必要ですか？&lt;/h3&gt;
+&lt;p&gt;はい, 卒業研究の経験は, 将来研究職に就く人でなくても, 企業で仕事をしていくのに重要な能力を育む場だと考えています.
+卒業研究での取り組みは, 皆さんがこれまで経験してきた講義ベースの学習とは異なります.
+これまで皆さんがやってきたのは, 講義を受けて教科書の内容を理解し, 専門知識を習得するということが目標だったのではないでしょうか?
+これに対して卒業研究というのは「研究」というだけあって, 既存の専門知識を習得するだけでなく, そこに新たな知見を加える行為です.
+そう言うと, 教科書を理解するだけでも大変なのに, そこに何か新しいアイデアを付け加えるなんてとても考えられない, と思うでしょうか？&lt;/p&gt;
+&lt;p&gt;卒業研究では社会的あるいは学術的に解決が望まれている, まだ正解のない問題を扱います.
+そこで皆さんは, 教科書的な知識だけでは対応できないことがたくさんあるのを目の当たりにするでしょう.
+そのとき皆さんに求められるのは, 教科書に書いてある方法でなぜ上手く行かないのか, むしろ教科書ではなぜ上手くいっていたのか, 目の前の問題を解決するにはどのような工夫が必要なのか, ということを考えることです.
+残念ながらほとんどの人が, 問題のパターンに応じて教科書の公式を覚え, 数値を当てはめて答えを出すというやり方をしていますが, それでは全く歯が立ちません.
+卒業研究では, このような観点で講義の内容の理解を問い直し, それを現実の問題にあてはめるという作業を, 教員のサポートのもとで進めていきます.
+その中で, 先人が残した知識体系の意味をきちんと理解し, 必要に応じてそれを修正していくということを経験してもらいます.&lt;/p&gt;
+&lt;p&gt;実はこのようなことは皆さんが就職して仕事をする上で必要となる考え方に他なりません.
+社会は常に変化していますから, これまでの方法がこれからも有効だとは限りません.
+上司がその方法でやっていたから, あるいは上司がその方法でやれと言ったからといって安心していると, 時代の変化についていけず, 仕事で成功をつかむことは難しいでしょう.
+大切なのは, なぜこれまでの方法が良しとされたのかをきちんと理解し, 必要に応じてそれを修正し続けることです.
+卒業研究というのは, そのような考え方を身に着ける実践的な訓練の場であるということを理解してください.&lt;/p&gt;
+&lt;p&gt;同じ理由でメーカなどに技術者として就職を希望する人には, 希望の業種と研究テーマの関連は関係なく修士課程への進学をすすめています（卒業論文や修士論文で扱うテーマの内容自体はまったく就職先の業種に関係する必要はありません）.&lt;/p&gt;
+&lt;h3 id="研究テーマはどのようなものを扱いますか"&gt;研究テーマはどのようなものを扱いますか？&lt;/h3&gt;
+&lt;p&gt;私の担当に配属された学生には，システム制御技術のエネルギー分野や医療分野への応用に関連するテーマに取り組んでもらいます.
+自動制御（フィードバック制御）や数理最適化，機械学習を基礎として, それを電力系統を含むエネルギー分野や, 手術中の全身麻酔の管理・制御などの医療分野へと応用します.&lt;/p&gt;
+&lt;p&gt;エネルギー分野や医療分野など幅広い研究テーマを扱っていますが, それらに共通して重要となる基礎知識は, 対象の挙動を微分方程式でモデル化して分析する方法です.
+学部の授業でいえば, 「解析学I,II」や「代数学I,II」で習う微分方程式や線形代数はもちろんですが, 「力学」や「振動・波動論」などの物理に加え, 「電気回路II」で扱う電気回路の過渡現象, 「制御システムI, II」におけるフィードバック制御, 「電力輸送工学II」で扱う電力系統の安定性解析（動揺方程式と等面積法）などの科目が関連します.
+これらの科目が得意な方, あるいは難しいと感じつつもぜひ習得したいと考えている方であれば, 興味を持って取り組めると思います.&lt;/p&gt;</description></item><item><title>教育活動</title><link>https://hoshino06.github.io/ja/education/class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoshino06.github.io/ja/education/class/</guid><description>&lt;h3 id="学内講義"&gt;学内講義&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;電気回路演習(1年後期) (2019年度～）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;電気工学思考型実験(3年前期/後期) (2019年度～)
+&lt;br&gt;
+   &lt;a href="../halleffect"&gt;ホール効果（半導体の電気的特性）サポートページ&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="学外講義"&gt;学外講義&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;明石工業高等専門学校
+&lt;a href="https://syllabus.kosen-k.go.jp/Pages/SyllabusPDF?school_id=27&amp;amp;department_id=12&amp;amp;subject_code=0055&amp;amp;year=2018" target="_blank" rel="noopener noreferrer"&gt; ディジタル電子回路 &lt;/a&gt;
+ 
+ (2020年度後期, 2021年度後期, 2022年度後期)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;東京女子大学
+&lt;a href="https://office3.bb.twcu.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c9779E4D9-AB3C-8D0A-0B4C-9CACA2877BAD_k45EE0044-676C-0ABF-0196-545787CDA644" target="_blank" rel="noopener noreferrer"&gt; エネルギー産業と国民生活 &lt;/a&gt;
+ 
+
+(第8回 再生可能エネルギーの現状と課題 担当) (2018年度～2021年度)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
