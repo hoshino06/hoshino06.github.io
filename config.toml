@@ -7,11 +7,13 @@ theme = "coder-portfolio-rev"
 languageCode = 'en-us'
 defaultcontentlanguage = "en"
 
-paginate = 20 # Default number of pages per page in pagination.
 pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 pygmentsUseClasses = true # new add
+
+[pagination]
+    pagerSize = 20 # Default number of pages per page in pagination.
 
 [markup.goldmark.renderer]
     unsafe = true # To render raw HTML.

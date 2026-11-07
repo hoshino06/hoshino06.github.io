@@ -5,28 +5,45 @@ title = "Publication List"
 
 #### 2026
 
+1. Taiyo Mantani, Hikaru Hoshino, Eiko Furutani,
+Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
+IEEE Transactions on Energy Markets, Policy and Regulation, Vol. 4, No. 2, pp. 247-258 (2026).
+[[IEEE](https://doi.org/10.1109/TEMPR.2025.3645733)]
+
+1. Naoki Hashima, Hikaru Hoshino, and Eiko Furutani,
+Probabilistic risk assessment of fault-induced instability in grid-forming inverter-based systems,
+in Proc. 2026 IEEE International Energy Conference (EnergyCon), Paris, France, October 27-29 (2026).
+
+1. Tomonari Kanazawa, Hikaru Hoshino, and Eiko Furutani,
+Learning stability of replay-based co-optimization for transmission expansion under strategic bidding,
+in Proc. 2026 IEEE International Energy Conference (EnergyCon), Paris, France, October 27-29 (2026).
+
 1. Tomonari Kanazawa, Hikaru Hoshino, Eiko Furutani,
  A reinforcement learning-based transmission expansion framework considering strategic bidding in electricity markets,
-in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+in Proc. 2026 IEEE Power & Energy Society General Meeting, pp. 1-5, Montréal, Canada, July 19-23 (2026). **Best Paper Session (Power System Operation, Planning, and Economics)**
+[[IEEE](https://doi.org/10.1109/PESGM58988.2026.11693158)]
+[[arXiv](https://doi.org/10.48550/arXiv.2602.19421)]
 
 1. Naoki Hashima, Hikaru Hoshino, Luis David Pabón Ospina, Eiko Furutani,
 Probabilistic reachability analysis of multi-scale voltage dynamics using reinforcement learning,
-in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+in Proc. 2026 IEEE Power & Energy Society General Meeting, pp. 1-5, Montréal, Canada, July 19-23 (2026). **Best Paper Session (Grid Transformation)**
+[[IEEE](https://doi.org/10.1109/PESGM58988.2026.11693345)]
 [[arXiv](https://doi.org/10.48550/arXiv.2602.13896)]
 
 1. Zhuoyuan Wang, Xiyu Deng, Hikaru Hoshino, and Yorie Nakahira,
 Online adaptive probabilistic safety certificate with language guidance,
-in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), Los Angeles, CA, USA, June 17-19 (2026) (accepted). 
+in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), PMLR, Vol. 331, pp. 872-903, Los Angeles, CA, USA, June 17-19 (2026).
+[[PMLR](https://proceedings.mlr.press/v331/wang26a.html)]
 [[arXiv](https://doi.org/10.48550/arXiv.2511.12431)]
+
+1. Hikaru Hoshino,
+Gradient-based co-design of nonlinear optimal regulators with stability guarantee,
+presented at the 2026 American Control Conference (ACC), New Orleans, Louisiana, USA, May 26-29 (2026) (IEEE Control Systems Letters paper).
+[[IEEE](https://doi.org/10.1109/LCSYS.2025.3634657)]
 
 #### 2025
 
-1. Taiyo Mantani, Hikaru Hoshino, Eiko Furutani,
-Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
-IEEE Transactions on Energy Markets, Policy and Regulation (in press).
-[[IEEE](https://doi.org/10.1109/TEMPR.2025.3645733)]
-
-1. Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Tohishihiro Takeda, and Gotaro Shirakami,
+1. Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, and Gotaro Shirakami,
 Mechanism-based modeling of neuromuscular monitoring measures during general anesthesia, 
 IEEE Access, Vol. 13, pp. 214655--214667 (2025).
 [[IEEE](https://doi.org/10.1109/ACCESS.2025.3646559)]
@@ -40,6 +57,7 @@ IEEE Control Systems Letters, Vol. 9, pp. 2561-2566 (2025).
 Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
 in Proc. 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
 [[IEEE](https://doi.org/10.1109/PESGM52009.2025.11225126)]
+[[arXiv](https://doi.org/10.48550/arXiv.2602.19428)]
 
 #### 2024
 

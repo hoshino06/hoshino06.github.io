@@ -1,0 +1,15 @@
+# テキストファイルは常に LF で保存・チェックアウトする（Windows/WSL 混在対策）
+* text=auto eol=lf
+
+# バイナリとして扱うファイル
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary

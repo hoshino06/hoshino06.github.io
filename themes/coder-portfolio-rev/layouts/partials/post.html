@@ -35,7 +35,7 @@
 
   <br/>
 
-  {{ if and (not (eq .Site.DisqusShortname "" )) (eq (.Params.disable_comments | default false) false)}}
+  {{ if and (not (eq .Site.Config.Services.Disqus.Shortname "" )) (eq (.Params.disable_comments | default false) false)}}
       {{ template "_internal/disqus.html" . }}
   {{ end }}
   

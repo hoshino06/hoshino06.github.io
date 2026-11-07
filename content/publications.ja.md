@@ -1,6 +1,6 @@
 +++
 title = "研究成果リスト"
-date = "2026-01-23"
+date = "2026-11-07"
 +++
 {{% publications %}}
 
@@ -9,7 +9,7 @@ date = "2026-01-23"
 
 1. Taiyo Mantani, Hikaru Hoshino, Eiko Furutani,
 Optimal battery sizing for real-time renewable energy bidding based on reinforcement learning, 
-IEEE Transactions on Energy Markets, Policy and Regulation (Early Access). 
+IEEE Transactions on Energy Markets, Policy and Regulation, Vol. 4, No. 2, pp. 247-258 (2026). 
 [[IEEE](https://doi.org/10.1109/TEMPR.2025.3645733)]
 
 1. Hikaru Hoshino, Hiroki Miyaguchi, Eiko Furutani, Tomonori Sugawara, Toshihiro Takeda, and Gotaro Shirakami,
@@ -94,24 +94,42 @@ Journal of Computational and Nonlinear Dynamics, Vol. 11, No. 6, 061018 (2016).
 
 ### 国際会議録
 
+1. Naoki Hashima, Hikaru Hoshino, and Eiko Furutani,
+Probabilistic risk assessment of fault-induced instability in grid-forming inverter-based systems,
+in Proc. 2026 IEEE International Energy Conference (EnergyCon), Paris, France, October 27-29 (2026).
+
+1. Tomonari Kanazawa, Hikaru Hoshino, and Eiko Furutani,
+Learning stability of replay-based co-optimization for transmission expansion under strategic bidding,
+in Proc. 2026 IEEE International Energy Conference (EnergyCon), Paris, France, October 27-29 (2026).
+
 1. Tomonari Kanazawa, Hikaru Hoshino, Eiko Furutani,
  A reinforcement learning-based transmission expansion framework considering strategic bidding in electricity markets,
-in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+in Proc. 2026 IEEE Power & Energy Society General Meeting, pp. 1-5, Montréal, Canada, July 19-23 (2026). **Best Paper Session (Power System Operation, Planning, and Economics)**
+[[IEEE](https://doi.org/10.1109/PESGM58988.2026.11693158)]
+[[arXiv](https://doi.org/10.48550/arXiv.2602.19421)]
 
 1. Naoki Hashima, Hikaru Hoshino, Luis David Pabón Ospina, Eiko Furutani,
 Probabilistic reachability analysis of multi-scale voltage dynamics using reinforcement learning,
-in Proc. 2026 IEEE Power & Energy Society General Meeting, Montréal, Canada, July 19-23 (2026) (accepted).
+in Proc. 2026 IEEE Power & Energy Society General Meeting, pp. 1-5, Montréal, Canada, July 19-23 (2026). **Best Paper Session (Grid Transformation)**
+[[IEEE](https://doi.org/10.1109/PESGM58988.2026.11693345)]
 [[arXiv](https://doi.org/10.48550/arXiv.2602.13896)]
 
 1. Zhuoyuan Wang, Xiyu Deng, Hikaru Hoshino, and Yorie Nakahira,
 Online adaptive probabilistic safety certificate with language guidance,
-in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), Los Angeles, CA, USA, June 17-19 (2026) (accepted). 
+in Proc. the 8th Annual Learning for Dynamics & Control Conference (L4DC), PMLR, Vol. 331, pp. 872-903, Los Angeles, CA, USA, June 17-19 (2026).
+[[PMLR](https://proceedings.mlr.press/v331/wang26a.html)]
 [[arXiv](https://doi.org/10.48550/arXiv.2511.12431)]
+
+1. Hikaru Hoshino,
+Gradient-based co-design of nonlinear optimal regulators with stability guarantee,
+presented at the 2026 American Control Conference (ACC), New Orleans, Louisiana, USA, May 26-29 (2026) (IEEE Control Systems Letters paper).
+[[IEEE](https://doi.org/10.1109/LCSYS.2025.3634657)]
 
 1. Taiyo Mantani, Hikaru Hoshino, Tomonari Kanazawa, and Eiko Furutani,
 Sizing of battery considering renewable energy bidding strategy with reinforcement learning,
 in Proc. 2025 IEEE Power & Energy Society General Meeting,  Austin, TX, USA, July 27-31 (2025). 
 [[IEEE](https://doi.org/10.1109/PESGM52009.2025.11225126)]
+[[arXiv](https://doi.org/10.48550/arXiv.2602.19428)]
 
 1. Kenjiro Nishimura, Hikaru Hoshino, and Eiko Furutani, Combined plant and control co-design via solutions of Hamilton-Jacobi-Bellman equation based on physics-informed learning,
 Proceedings of the 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, November 9-12 (2024).
@@ -171,7 +189,17 @@ Physiological modeling of concentration-effect relationship for nondepolarizing 
 
 共同研究者登壇分を含む．**太字**が発表者. 
 
-1. **持丸 祥摩**，星野 光，古谷 栄光, 小島 茂，髙 友香子，岡庭 みゆき, 複合樹脂の混練および射出成形プロセスの構造方程式によるモデル化に関する一検討, 2024年度計測自動制御学会関西支部・システム制御情報学会シンポジウム, A2-1, 大阪工業大学梅田キャンパス, 2026年1月10日. **優秀発表賞**
+1. **中川 喜輝**, 星野 光, 古谷 栄光, 燃料電池車のエネルギーマネジメントと速度制御の同時最適化に関する一検討, 第69回自動制御連合講演会, 1C1-5, 東京都市大学世田谷キャンパス, 2026年11月7日.
+
+1. **星野 光**, 強化学習と電力系統への適用, 令和8年 電気学会 電力・エネルギー部門大会 座談会「電力系統へのAI最新技術適用の現状」, 千葉大学西千葉キャンパス, 2026年9月17日. **依頼講演**
+
+1. **中川 喜輝**, 岩井 克樹, 星野 光, 古谷 栄光, 強化学習とモデル予測制御による燃料電池車の階層型エネルギーマネジメントに関する一検討, 第70回システム制御情報学会研究発表講演会, 31D-5, ウインクあいち, 2026年5月26日.
+
+1. **橋間 尚樹**, 星野 光, 古谷 栄光, 強化学習を用いた確率的可到達性解析による電力システムのリスク評価: インバータ電源を考慮した検討, 第70回システム制御情報学会研究発表講演会, 21E-6, ウインクあいち, 2026年5月25日.
+
+1. **金澤 友生**, 星野 光, 古谷 栄光, 強化学習による電力市場の入札戦略と送電容量の同時最適化の学習安定性に関する検討, 第70回システム制御情報学会研究発表講演会, 13C-6, ウインクあいち, 2026年5月24日.
+
+1. **持丸 祥摩**，星野 光，古谷 栄光, 小島 茂，髙 友香子，岡庭 みゆき, 複合樹脂の混練および射出成形プロセスの構造方程式によるモデル化に関する一検討, 2025年度計測自動制御学会関西支部・システム制御情報学会シンポジウム, A2-1, 大阪工業大学梅田キャンパス, 2026年1月10日. **優秀発表賞**
 
 1. **西村 憲二郎**, 星野 光, 古谷 栄光, 車両ダイナミクスの確率モデルに基づく燃料電池システムのエネルギー消費に関する一検討, 第68回自動制御連合講演会, 21E-3, 名古屋大学東山キャンパス, 2025年11月2日. 
 
