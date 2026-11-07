@@ -1,0 +1,6 @@
+{{- /* 経歴ページ用: 箇条書き先頭の年月を日付列に分けて表示する */ -}}
+{{- $html := .Page.RenderString (dict "display" "block") .Inner -}}
+{{- $html = replaceRE `(?s)<li>(\d{4}年[^\s<,]*(?:,\s*\d{4}年[^\s<,]*)*)\s+(.*?)</li>` `<li class="cv-dated"><span class="cv-date">$1</span><span class="cv-body">$2</span></li>` $html -}}
+<div class="cv">
+{{ $html | safeHTML }}
+</div>
